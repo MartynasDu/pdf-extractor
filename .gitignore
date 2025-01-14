@@ -9,3 +9,7 @@ __pycache__/
 
 # Environment variables
 .env
+
+# PDF files and extracted images (for future commits)
+*.pdf
+extracted_images/
