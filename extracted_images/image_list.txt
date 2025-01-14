@@ -1,0 +1,4173 @@
+Images extracted from: sample.pdf
+Extraction date: 2025-01-14 21:50:25
+Total pages processed: 689
+Total images found: 521
+
+Page 1:
+Image: image_1_1.png
+Caption: No caption found
+Size: 525x658 pixels
+File size: 33.8 KB
+Location: extracted_images\image_1_1.png
+--------------------------------------------------
+
+Page 4:
+Image: image_4_1.png
+Caption: No caption found
+Size: 118x161 pixels
+File size: 6.9 KB
+Location: extracted_images\image_4_1.png
+--------------------------------------------------
+
+Page 21:
+Image: image_21_1.png
+Caption: The speed of a car v(t) as shown in Figure 1.1.
+Size: 613x338 pixels
+File size: 2.5 KB
+Location: extracted_images\image_21_1.png
+--------------------------------------------------
+
+Page 22:
+Image: image_22_1.png
+Caption: . This is illustrated in Figure 1.3.
+Size: 610x460 pixels
+File size: 3.7 KB
+Location: extracted_images\image_22_1.png
+--------------------------------------------------
+
+Page 22:
+Image: image_22_2.png
+Caption: . This is illustrated in Figure 1.3.
+Size: 738x546 pixels
+File size: 4.2 KB
+Location: extracted_images\image_22_2.png
+--------------------------------------------------
+
+Page 23:
+Image: image_23_1.png
+Caption: Consider the continuous-time signal x(t) defined by its graph shown in Figure 1.4
+Size: 617x415 pixels
+File size: 2.3 KB
+Location: extracted_images\image_23_1.png
+--------------------------------------------------
+
+Page 23:
+Image: image_23_2.png
+Caption: Consider the continuous-time signal x(t) defined by its graph shown in Figure 1.4
+Size: 775x503 pixels
+File size: 3.9 KB
+Location: extracted_images\image_23_2.png
+--------------------------------------------------
+
+Page 24:
+Image: image_24_1.png
+Caption: shown in Figure 1.6.
+Size: 794x293 pixels
+File size: 2.3 KB
+Location: extracted_images\image_24_1.png
+--------------------------------------------------
+
+Page 24:
+Image: image_24_2.png
+Caption: shown in Figure 1.6.
+Size: 836x429 pixels
+File size: 2.3 KB
+Location: extracted_images\image_24_2.png
+--------------------------------------------------
+
+Page 25:
+Image: image_25_1.png
+Caption: Case � = 2 shown in Figure 1.8.
+Size: 775x488 pixels
+File size: 3.3 KB
+Location: extracted_images\image_25_1.png
+--------------------------------------------------
+
+Page 25:
+Image: image_25_2.png
+Caption: Case � = 2 shown in Figure 1.8.
+Size: 596x397 pixels
+File size: 2.2 KB
+Location: extracted_images\image_25_2.png
+--------------------------------------------------
+
+Page 25:
+Image: image_25_3.png
+Caption: Case � = 2 shown in Figure 1.8.
+Size: 775x505 pixels
+File size: 4.3 KB
+Location: extracted_images\image_25_3.png
+--------------------------------------------------
+
+Page 26:
+Image: image_26_1.png
+Caption: before the time it originally started at, t � –2, as shown in Figure 1.11. For T neg-
+Size: 736x415 pixels
+File size: 2.7 KB
+Location: extracted_images\image_26_1.png
+--------------------------------------------------
+
+Page 26:
+Image: image_26_2.png
+Caption: before the time it originally started at, t � –2, as shown in Figure 1.11. For T neg-
+Size: 766x445 pixels
+File size: 3.3 KB
+Location: extracted_images\image_26_2.png
+--------------------------------------------------
+
+Page 26:
+Image: image_26_3.png
+Caption: before the time it originally started at, t � –2, as shown in Figure 1.11. For T neg-
+Size: 711x441 pixels
+File size: 4.2 KB
+Location: extracted_images\image_26_3.png
+--------------------------------------------------
+
+Page 27:
+Image: image_27_1.png
+Caption: The square wave signal in Figure 1.14 is periodic. The fundamental
+Size: 1146x438 pixels
+File size: 4.1 KB
+Location: extracted_images\image_27_1.png
+--------------------------------------------------
+
+Page 28:
+Image: image_28_1.png
+Caption: in Figure 1.15 is periodic
+Size: 870x422 pixels
+File size: 4.2 KB
+Location: extracted_images\image_28_1.png
+--------------------------------------------------
+
+Page 29:
+Image: image_29_1.png
+Caption: , as shown in Figure
+Size: 617x349 pixels
+File size: 2.0 KB
+Location: extracted_images\image_29_1.png
+--------------------------------------------------
+
+Page 29:
+Image: image_29_2.png
+Caption: , as shown in Figure
+Size: 577x360 pixels
+File size: 1.9 KB
+Location: extracted_images\image_29_2.png
+--------------------------------------------------
+
+Page 29:
+Image: image_29_3.png
+Caption: , as shown in Figure
+Size: 609x492 pixels
+File size: 3.9 KB
+Location: extracted_images\image_29_3.png
+--------------------------------------------------
+
+Page 30:
+Image: image_30_1.png
+Caption: shown in Figure 1.19.
+Size: 580x520 pixels
+File size: 3.8 KB
+Location: extracted_images\image_30_1.png
+--------------------------------------------------
+
+Page 30:
+Image: image_30_2.png
+Caption: shown in Figure 1.19.
+Size: 628x618 pixels
+File size: 4.9 KB
+Location: extracted_images\image_30_2.png
+--------------------------------------------------
+
+Page 30:
+Image: image_30_3.png
+Caption: shown in Figure 1.19.
+Size: 753x457 pixels
+File size: 3.7 KB
+Location: extracted_images\image_30_3.png
+--------------------------------------------------
+
+Page 30:
+Image: image_30_4.png
+Caption: shown in Figure 1.19.
+Size: 672x675 pixels
+File size: 5.1 KB
+Location: extracted_images\image_30_4.png
+--------------------------------------------------
+
+Page 31:
+Image: image_31_1.png
+Caption: , as shown in Figure 1.23 for the case � � 0. The times
+Size: 1307x640 pixels
+File size: 7.4 KB
+Location: extracted_images\image_31_1.png
+--------------------------------------------------
+
+Page 32:
+Image: image_32_1.png
+Caption: (as shown in Figure 1.23 but with radius A) whose real and imaginary parts are
+Size: 650x479 pixels
+File size: 5.7 KB
+Location: extracted_images\image_32_1.png
+--------------------------------------------------
+
+Page 33:
+Image: image_33_1.png
+Caption: No caption found
+Size: 870x577 pixels
+File size: 6.6 KB
+Location: extracted_images\image_33_1.png
+--------------------------------------------------
+
+Page 33:
+Image: image_33_2.png
+Caption: No caption found
+Size: 853x578 pixels
+File size: 6.6 KB
+Location: extracted_images\image_33_2.png
+--------------------------------------------------
+
+Page 35:
+Image: image_35_1.png
+Caption: damped sinusoidal signals (see Figure 1.28).
+Size: 675x565 pixels
+File size: 4.8 KB
+Location: extracted_images\image_35_1.png
+--------------------------------------------------
+
+Page 35:
+Image: image_35_2.png
+Caption: damped sinusoidal signals (see Figure 1.28).
+Size: 772x622 pixels
+File size: 4.7 KB
+Location: extracted_images\image_35_2.png
+--------------------------------------------------
+
+Page 35:
+Image: image_35_3.png
+Caption: damped sinusoidal signals (see Figure 1.28).
+Size: 821x648 pixels
+File size: 5.6 KB
+Location: extracted_images\image_35_3.png
+--------------------------------------------------
+
+Page 38:
+Image: image_38_1.png
+Caption: such as the one shown in Figure 1.30 are periodic with (fundamental)
+Size: 855x580 pixels
+File size: 7.3 KB
+Location: extracted_images\image_38_1.png
+--------------------------------------------------
+
+Page 40:
+Image: image_40_1.png
+Caption: No caption found
+Size: 707x510 pixels
+File size: 4.4 KB
+Location: extracted_images\image_40_1.png
+--------------------------------------------------
+
+Page 43:
+Image: image_43_1.png
+Caption: Figure 1.32 shows a continuous-time even signal, whereas Figure 1.33 shows
+Size: 1177x390 pixels
+File size: 3.4 KB
+Location: extracted_images\image_43_1.png
+--------------------------------------------------
+
+Page 43:
+Image: image_43_2.png
+Caption: Figure 1.32 shows a continuous-time even signal, whereas Figure 1.33 shows
+Size: 780x402 pixels
+File size: 3.6 KB
+Location: extracted_images\image_43_2.png
+--------------------------------------------------
+
+Page 44:
+Image: image_44_1.png
+Caption: Its graph is shown in Figure 1.34.
+Size: 649x344 pixels
+File size: 2.0 KB
+Location: extracted_images\image_44_1.png
+--------------------------------------------------
+
+Page 44:
+Image: image_44_2.png
+Caption: Its graph is shown in Figure 1.34.
+Size: 752x354 pixels
+File size: 3.4 KB
+Location: extracted_images\image_44_2.png
+--------------------------------------------------
+
+Page 46:
+Image: image_46_1.png
+Caption: The finite-support signal x(t) shown in Figure 1.37 can be writ-
+Size: 1211x429 pixels
+File size: 1.9 KB
+Location: extracted_images\image_46_1.png
+--------------------------------------------------
+
+Page 46:
+Image: image_46_2.png
+Caption: The finite-support signal x(t) shown in Figure 1.37 can be writ-
+Size: 1045x444 pixels
+File size: 3.5 KB
+Location: extracted_images\image_46_2.png
+--------------------------------------------------
+
+Page 47:
+Image: image_47_1.png
+Caption: lar pulse function of unit area shown in Figure 1.39, defined as:
+Size: 872x468 pixels
+File size: 3.6 KB
+Location: extracted_images\image_47_1.png
+--------------------------------------------------
+
+Page 47:
+Image: image_47_2.png
+Caption: lar pulse function of unit area shown in Figure 1.39, defined as:
+Size: 641x421 pixels
+File size: 1.8 KB
+Location: extracted_images\image_47_2.png
+--------------------------------------------------
+
+Page 48:
+Image: image_48_1.png
+Caption: in Figure 1.40.
+Size: 1055x424 pixels
+File size: 2.2 KB
+Location: extracted_images\image_48_1.png
+--------------------------------------------------
+
+Page 49:
+Image: image_49_1.png
+Caption: Consider the simple RC circuit depicted in Figure 1.42, with a constant voltage
+Size: 500x362 pixels
+File size: 1.4 KB
+Location: extracted_images\image_49_1.png
+--------------------------------------------------
+
+Page 50:
+Image: image_50_1.png
+Caption: No caption found
+Size: 1058x364 pixels
+File size: 4.8 KB
+Location: extracted_images\image_50_1.png
+--------------------------------------------------
+
+Page 51:
+Image: image_51_1.png
+Caption: No caption found
+Size: 552x405 pixels
+File size: 2.0 KB
+Location: extracted_images\image_51_1.png
+--------------------------------------------------
+
+Page 53:
+Image: image_53_1.png
+Caption: at t � 0, as shown in Figure 1.44. Note that the resulting “impulses” are not regu-
+Size: 1353x479 pixels
+File size: 5.0 KB
+Location: extracted_images\image_53_1.png
+--------------------------------------------------
+
+Page 54:
+Image: image_54_1.png
+Caption: Figure 1.45 and Figure 1.46.
+Size: 804x265 pixels
+File size: 2.3 KB
+Location: extracted_images\image_54_1.png
+--------------------------------------------------
+
+Page 54:
+Image: image_54_2.png
+Caption: Figure 1.45 and Figure 1.46.
+Size: 785x255 pixels
+File size: 2.2 KB
+Location: extracted_images\image_54_2.png
+--------------------------------------------------
+
+Page 55:
+Image: image_55_1.png
+Caption: The cascade interconnection shown in Figure 1.48 is a successive application of
+Size: 1436x672 pixels
+File size: 9.1 KB
+Location: extracted_images\image_55_1.png
+--------------------------------------------------
+
+Page 55:
+Image: image_55_2.png
+Caption: The cascade interconnection shown in Figure 1.48 is a successive application of
+Size: 1091x209 pixels
+File size: 3.0 KB
+Location: extracted_images\image_55_2.png
+--------------------------------------------------
+
+Page 56:
+Image: image_56_1.png
+Caption: The feedback interconnection of two systems as shown in Figure 1.50 is a feedback
+Size: 774x382 pixels
+File size: 3.8 KB
+Location: extracted_images\image_56_1.png
+--------------------------------------------------
+
+Page 56:
+Image: image_56_2.png
+Caption: The feedback interconnection of two systems as shown in Figure 1.50 is a feedback
+Size: 811x402 pixels
+File size: 3.6 KB
+Location: extracted_images\image_56_2.png
+--------------------------------------------------
+
+Page 57:
+Image: image_57_1.png
+Caption: Consider the car cruise control system in Figure 1.51, whose task
+Size: 1028x277 pixels
+File size: 4.5 KB
+Location: extracted_images\image_57_1.png
+--------------------------------------------------
+
+Page 58:
+Image: image_58_1.png
+Caption: circuit shown in Figure 1.52.
+Size: 953x426 pixels
+File size: 3.5 KB
+Location: extracted_images\image_58_1.png
+--------------------------------------------------
+
+Page 60:
+Image: image_60_1.png
+Caption: be bounded in magnitude by K2 at all times. This is illustrated in Figure 1.53.
+Size: 1305x312 pixels
+File size: 5.4 KB
+Location: extracted_images\image_60_1.png
+--------------------------------------------------
+
+Page 61:
+Image: image_61_1.png
+Caption: is such that the cascade interconnection in Figure 1.54 is equivalent to the identity
+Size: 948x181 pixels
+File size: 2.5 KB
+Location: extracted_images\image_61_1.png
+--------------------------------------------------
+
+Page 66:
+Image: image_66_1.png
+Caption: Answer: Signals x[n] and y[n] are sketched in Figure 1.55 and Figure 1.56.
+Size: 806x480 pixels
+File size: 4.3 KB
+Location: extracted_images\image_66_1.png
+--------------------------------------------------
+
+Page 66:
+Image: image_66_2.png
+Caption: Answer: Signals x[n] and y[n] are sketched in Figure 1.55 and Figure 1.56.
+Size: 779x559 pixels
+File size: 5.1 KB
+Location: extracted_images\image_66_2.png
+--------------------------------------------------
+
+Page 67:
+Image: image_67_1.png
+Caption: No caption found
+Size: 1229x814 pixels
+File size: 8.0 KB
+Location: extracted_images\image_67_1.png
+--------------------------------------------------
+
+Page 73:
+Image: image_73_1.png
+Caption: The finite-support signal x[n] shown in Figure 2.1 is the sum of
+Size: 1214x919 pixels
+File size: 12.2 KB
+Location: extracted_images\image_73_1.png
+--------------------------------------------------
+
+Page 74:
+Image: image_74_1.png
+Caption: one in Figure 2.2.
+Size: 725x493 pixels
+File size: 3.0 KB
+Location: extracted_images\image_74_1.png
+--------------------------------------------------
+
+Page 78:
+Image: image_78_1.png
+Caption: impulse response and input signal shown in Figure 2.3.
+Size: 1466x781 pixels
+File size: 14.0 KB
+Location: extracted_images\image_78_1.png
+--------------------------------------------------
+
+Page 79:
+Image: image_79_1.png
+Caption: as in Figure 2.5.
+Size: 545x661 pixels
+File size: 4.0 KB
+Location: extracted_images\image_79_1.png
+--------------------------------------------------
+
+Page 79:
+Image: image_79_2.png
+Caption: as in Figure 2.5.
+Size: 545x654 pixels
+File size: 4.0 KB
+Location: extracted_images\image_79_2.png
+--------------------------------------------------
+
+Page 80:
+Image: image_80_1.png
+Caption: to get g[k] shown in Figure 2.6.
+Size: 545x297 pixels
+File size: 2.0 KB
+Location: extracted_images\image_80_1.png
+--------------------------------------------------
+
+Page 80:
+Image: image_80_2.png
+Caption: to get g[k] shown in Figure 2.6.
+Size: 545x655 pixels
+File size: 4.2 KB
+Location: extracted_images\image_80_2.png
+--------------------------------------------------
+
+Page 81:
+Image: image_81_1.png
+Caption: to get g[k] shown in Figure 2.8.
+Size: 545x288 pixels
+File size: 2.1 KB
+Location: extracted_images\image_81_1.png
+--------------------------------------------------
+
+Page 81:
+Image: image_81_2.png
+Caption: to get g[k] shown in Figure 2.8.
+Size: 1454x303 pixels
+File size: 4.5 KB
+Location: extracted_images\image_81_2.png
+--------------------------------------------------
+
+Page 82:
+Image: image_82_1.png
+Caption: . This is the situation in Figure 2.10.
+Size: 992x758 pixels
+File size: 5.9 KB
+Location: extracted_images\image_82_1.png
+--------------------------------------------------
+
+Page 83:
+Image: image_83_1.png
+Caption: in Figure 2.12.
+Size: 992x716 pixels
+File size: 6.9 KB
+Location: extracted_images\image_83_1.png
+--------------------------------------------------
+
+Page 83:
+Image: image_83_2.png
+Caption: in Figure 2.12.
+Size: 992x715 pixels
+File size: 7.6 KB
+Location: extracted_images\image_83_2.png
+--------------------------------------------------
+
+Page 84:
+Image: image_84_1.png
+Caption: (see Figure 2.13).
+Size: 992x703 pixels
+File size: 7.5 KB
+Location: extracted_images\image_84_1.png
+--------------------------------------------------
+
+Page 85:
+Image: image_85_1.png
+Caption: which is sketched in Figure 2.14.
+Size: 953x355 pixels
+File size: 3.3 KB
+Location: extracted_images\image_85_1.png
+--------------------------------------------------
+
+Page 86:
+Image: image_86_1.png
+Caption: as shown in Figure 2.15 and taking the sum in Equation 2.20 to an integral as
+Size: 940x372 pixels
+File size: 4.8 KB
+Location: extracted_images\image_86_1.png
+--------------------------------------------------
+
+Page 89:
+Image: image_89_1.png
+Caption: Example 2.7: Given h(�) in Figure 2.16, sketch
+Size: 495x335 pixels
+File size: 1.8 KB
+Location: extracted_images\image_89_1.png
+--------------------------------------------------
+
+Page 89:
+Image: image_89_2.png
+Caption: Example 2.7: Given h(�) in Figure 2.16, sketch
+Size: 495x340 pixels
+File size: 1.8 KB
+Location: extracted_images\image_89_2.png
+--------------------------------------------------
+
+Page 89:
+Image: image_89_3.png
+Caption: Example 2.7: Given h(�) in Figure 2.16, sketch
+Size: 678x272 pixels
+File size: 2.3 KB
+Location: extracted_images\image_89_3.png
+--------------------------------------------------
+
+Page 89:
+Image: image_89_4.png
+Caption: Example 2.7: Given h(�) in Figure 2.16, sketch
+Size: 615x287 pixels
+File size: 2.1 KB
+Location: extracted_images\image_89_4.png
+--------------------------------------------------
+
+Page 90:
+Image: image_90_1.png
+Caption: , as shown in Figure 2.20.
+Size: 493x268 pixels
+File size: 1.4 KB
+Location: extracted_images\image_90_1.png
+--------------------------------------------------
+
+Page 90:
+Image: image_90_2.png
+Caption: , as shown in Figure 2.20.
+Size: 454x297 pixels
+File size: 1.6 KB
+Location: extracted_images\image_90_2.png
+--------------------------------------------------
+
+Page 90:
+Image: image_90_3.png
+Caption: , as shown in Figure 2.20.
+Size: 492x351 pixels
+File size: 1.7 KB
+Location: extracted_images\image_90_3.png
+--------------------------------------------------
+
+Page 90:
+Image: image_90_4.png
+Caption: , as shown in Figure 2.20.
+Size: 1404x255 pixels
+File size: 2.6 KB
+Location: extracted_images\image_90_4.png
+--------------------------------------------------
+
+Page 91:
+Image: image_91_1.png
+Caption: (see Figure 2.24).
+Size: 1404x330 pixels
+File size: 3.1 KB
+Location: extracted_images\image_91_1.png
+--------------------------------------------------
+
+Page 91:
+Image: image_91_2.png
+Caption: (see Figure 2.24).
+Size: 570x354 pixels
+File size: 1.6 KB
+Location: extracted_images\image_91_2.png
+--------------------------------------------------
+
+Page 91:
+Image: image_91_3.png
+Caption: (see Figure 2.24).
+Size: 647x306 pixels
+File size: 1.7 KB
+Location: extracted_images\image_91_3.png
+--------------------------------------------------
+
+Page 92:
+Image: image_92_1.png
+Caption: This sum of two signals forming the output is illustrated in Figure 2.28.
+Size: 694x306 pixels
+File size: 1.7 KB
+Location: extracted_images\image_92_1.png
+--------------------------------------------------
+
+Page 93:
+Image: image_93_1.png
+Caption: block diagrams in Figure 2.29. This results from the fact that a convolution is com-
+Size: 777x976 pixels
+File size: 5.0 KB
+Location: extracted_images\image_93_1.png
+--------------------------------------------------
+
+Page 94:
+Image: image_94_1.png
+Caption: responses of the two individual systems, as shown in Figure 2.30.
+Size: 589x315 pixels
+File size: 2.2 KB
+Location: extracted_images\image_94_1.png
+--------------------------------------------------
+
+Page 94:
+Image: image_94_2.png
+Caption: responses of the two individual systems, as shown in Figure 2.30.
+Size: 589x546 pixels
+File size: 3.8 KB
+Location: extracted_images\image_94_2.png
+--------------------------------------------------
+
+Page 95:
+Image: image_95_1.png
+Caption: No caption found
+Size: 589x350 pixels
+File size: 2.8 KB
+Location: extracted_images\image_95_1.png
+--------------------------------------------------
+
+Page 96:
+Image: image_96_1.png
+Caption: No caption found
+Size: 547x150 pixels
+File size: 1.4 KB
+Location: extracted_images\image_96_1.png
+--------------------------------------------------
+
+Page 99:
+Image: image_99_1.png
+Caption: circuit of Figure 2.33 are shown in Figure 2.34.
+Size: 1104x233 pixels
+File size: 3.7 KB
+Location: extracted_images\image_99_1.png
+--------------------------------------------------
+
+Page 99:
+Image: image_99_2.png
+Caption: circuit of Figure 2.33 are shown in Figure 2.34.
+Size: 1226x328 pixels
+File size: 4.6 KB
+Location: extracted_images\image_99_2.png
+--------------------------------------------------
+
+Page 101:
+Image: image_101_1.png
+Caption: which is plotted in Figure 2.35.
+Size: 814x428 pixels
+File size: 4.6 KB
+Location: extracted_images\image_101_1.png
+--------------------------------------------------
+
+Page 102:
+Image: image_102_1.png
+Caption: Figure 2.38 shows a plot of the output signal:
+Size: 684x576 pixels
+File size: 3.9 KB
+Location: extracted_images\image_102_1.png
+--------------------------------------------------
+
+Page 102:
+Image: image_102_2.png
+Caption: Figure 2.38 shows a plot of the output signal:
+Size: 807x632 pixels
+File size: 5.2 KB
+Location: extracted_images\image_102_2.png
+--------------------------------------------------
+
+Page 102:
+Image: image_102_3.png
+Caption: Figure 2.38 shows a plot of the output signal:
+Size: 1153x350 pixels
+File size: 3.7 KB
+Location: extracted_images\image_102_3.png
+--------------------------------------------------
+
+Page 103:
+Image: image_103_1.png
+Caption: pulse response h(t) for an input signal x(t) as depicted in Figure 2.39.
+Size: 845x648 pixels
+File size: 4.0 KB
+Location: extracted_images\image_103_1.png
+--------------------------------------------------
+
+Page 104:
+Image: image_104_1.png
+Caption: t < 1: no overlap as seen in Figure 2.40, so
+Size: 968x644 pixels
+File size: 4.0 KB
+Location: extracted_images\image_104_1.png
+--------------------------------------------------
+
+Page 104:
+Image: image_104_2.png
+Caption: t < 1: no overlap as seen in Figure 2.40, so
+Size: 1031x659 pixels
+File size: 4.5 KB
+Location: extracted_images\image_104_2.png
+--------------------------------------------------
+
+Page 105:
+Image: image_105_1.png
+Caption: as shown in Figure 2.42. Then,
+Size: 1011x658 pixels
+File size: 4.6 KB
+Location: extracted_images\image_105_1.png
+--------------------------------------------------
+
+Page 105:
+Image: image_105_2.png
+Caption: as shown in Figure 2.42. Then,
+Size: 1162x312 pixels
+File size: 2.7 KB
+Location: extracted_images\image_105_2.png
+--------------------------------------------------
+
+Page 106:
+Image: image_106_1.png
+Caption: h(t) for an input signal x(t) as depicted in Figure 2.44.
+Size: 799x590 pixels
+File size: 4.4 KB
+Location: extracted_images\image_106_1.png
+--------------------------------------------------
+
+Page 107:
+Image: image_107_1.png
+Caption: (a) The input signal x[n] and impulse response h[n] are depicted in Figure
+Size: 784x635 pixels
+File size: 4.2 KB
+Location: extracted_images\image_107_1.png
+--------------------------------------------------
+
+Page 108:
+Image: image_108_1.png
+Caption: The input signal of the LTI system shown in Figure 2.48 is the following:
+Size: 809x609 pixels
+File size: 3.8 KB
+Location: extracted_images\image_108_1.png
+--------------------------------------------------
+
+Page 108:
+Image: image_108_2.png
+Caption: The input signal of the LTI system shown in Figure 2.48 is the following:
+Size: 1400x266 pixels
+File size: 3.6 KB
+Location: extracted_images\image_108_2.png
+--------------------------------------------------
+
+Page 109:
+Image: image_109_1.png
+Caption: No caption found
+Size: 972x158 pixels
+File size: 2.7 KB
+Location: extracted_images\image_109_1.png
+--------------------------------------------------
+
+Page 111:
+Image: image_111_1.png
+Caption: force in newtons applied on the car (Figure 3.2). According to Newton’s law, the
+Size: 962x559 pixels
+File size: 6.4 KB
+Location: extracted_images\image_111_1.png
+--------------------------------------------------
+
+Page 112:
+Image: image_112_1.png
+Caption: No caption found
+Size: 1058x228 pixels
+File size: 3.8 KB
+Location: extracted_images\image_112_1.png
+--------------------------------------------------
+
+Page 115:
+Image: image_115_1.png
+Caption: No caption found
+Size: 965x698 pixels
+File size: 6.8 KB
+Location: extracted_images\image_115_1.png
+--------------------------------------------------
+
+Page 119:
+Image: image_119_1.png
+Caption: No caption found
+Size: 60x38 pixels
+File size: 1.4 KB
+Location: extracted_images\image_119_1.png
+--------------------------------------------------
+
+Page 121:
+Image: image_121_1.png
+Caption: each one defined by a side of the differential equation, as illustrated in Figure 3.4.
+Size: 1363x290 pixels
+File size: 5.9 KB
+Location: extracted_images\image_121_1.png
+--------------------------------------------------
+
+Page 121:
+Image: image_121_2.png
+Caption: each one defined by a side of the differential equation, as illustrated in Figure 3.4.
+Size: 1417x293 pixels
+File size: 6.9 KB
+Location: extracted_images\image_121_2.png
+--------------------------------------------------
+
+Page 125:
+Image: image_125_1.png
+Caption: equality of Equation 3.49. The impulse response is shown in Figure 3.6.
+Size: 484x354 pixels
+File size: 1.9 KB
+Location: extracted_images\image_125_1.png
+--------------------------------------------------
+
+Page 127:
+Image: image_127_1.png
+Caption: This step response is shown in Figure 3.7.
+Size: 472x297 pixels
+File size: 1.4 KB
+Location: extracted_images\image_127_1.png
+--------------------------------------------------
+
+Page 128:
+Image: image_128_1.png
+Caption: No caption found
+Size: 479x323 pixels
+File size: 1.8 KB
+Location: extracted_images\image_128_1.png
+--------------------------------------------------
+
+Page 135:
+Image: image_135_1.png
+Caption: shown in Figure 3.9.
+Size: 684x372 pixels
+File size: 2.8 KB
+Location: extracted_images\image_135_1.png
+--------------------------------------------------
+
+Page 136:
+Image: image_136_1.png
+Caption: initial value, as shown in Figure 3.10. The step response is also shown in this fig-
+Size: 1424x365 pixels
+File size: 5.4 KB
+Location: extracted_images\image_136_1.png
+--------------------------------------------------
+
+Page 139:
+Image: image_139_1.png
+Caption: This impulse response is plotted in Figure 3.11 for a = 2.
+Size: 923x516 pixels
+File size: 3.5 KB
+Location: extracted_images\image_139_1.png
+--------------------------------------------------
+
+Page 146:
+Image: image_146_1.png
+Caption: Find the response of this system to the input depicted in Figure 3.12 by
+Size: 833x267 pixels
+File size: 2.3 KB
+Location: extracted_images\image_146_1.png
+--------------------------------------------------
+
+Page 147:
+Image: image_147_1.png
+Caption: No caption found
+Size: 60x38 pixels
+File size: 1.4 KB
+Location: extracted_images\image_147_1.png
+--------------------------------------------------
+
+Page 148:
+Image: image_148_1.png
+Caption: No caption found
+Size: 60x38 pixels
+File size: 1.4 KB
+Location: extracted_images\image_148_1.png
+--------------------------------------------------
+
+Page 149:
+Image: image_149_1.png
+Caption: No caption found
+Size: 60x38 pixels
+File size: 1.4 KB
+Location: extracted_images\image_149_1.png
+--------------------------------------------------
+
+Page 152:
+Image: image_152_1.png
+Caption: No caption found
+Size: 953x412 pixels
+File size: 7.9 KB
+Location: extracted_images\image_152_1.png
+--------------------------------------------------
+
+Page 153:
+Image: image_153_1.png
+Caption: in Figure 4.2.
+Size: 473x381 pixels
+File size: 30.3 KB
+Location: extracted_images\image_153_1.png
+--------------------------------------------------
+
+Page 155:
+Image: image_155_1.png
+Caption: shown in Figure 4.3. Then, we will express x(t) as a Fourier series.
+Size: 1153x351 pixels
+File size: 3.7 KB
+Location: extracted_images\image_155_1.png
+--------------------------------------------------
+
+Page 157:
+Image: image_157_1.png
+Caption: No caption found
+Size: 1179x1079 pixels
+File size: 9.2 KB
+Location: extracted_images\image_157_1.png
+--------------------------------------------------
+
+Page 160:
+Image: image_160_1.png
+Caption: 2� (see Figure 4.5).
+Size: 1090x388 pixels
+File size: 3.7 KB
+Location: extracted_images\image_160_1.png
+--------------------------------------------------
+
+Page 161:
+Image: image_161_1.png
+Caption: , as shown in Figure 4.6.
+Size: 1099x457 pixels
+File size: 4.4 KB
+Location: extracted_images\image_161_1.png
+--------------------------------------------------
+
+Page 162:
+Image: image_162_1.png
+Caption: given in Equation 4.22 and whose line spectrum is shown in Figure 4.7. Note that
+Size: 1126x375 pixels
+File size: 3.5 KB
+Location: extracted_images\image_162_1.png
+--------------------------------------------------
+
+Page 163:
+Image: image_163_1.png
+Caption: No caption found
+Size: 823x371 pixels
+File size: 2.7 KB
+Location: extracted_images\image_163_1.png
+--------------------------------------------------
+
+Page 166:
+Image: image_166_1.png
+Caption: The graph over one period looks like the one in Figure 4.9.
+Size: 811x364 pixels
+File size: 3.4 KB
+Location: extracted_images\image_166_1.png
+--------------------------------------------------
+
+Page 167:
+Image: image_167_1.png
+Caption: pulses, called an impulse train as shown in Figure 4.11.
+Size: 850x357 pixels
+File size: 3.6 KB
+Location: extracted_images\image_167_1.png
+--------------------------------------------------
+
+Page 167:
+Image: image_167_2.png
+Caption: pulses, called an impulse train as shown in Figure 4.11.
+Size: 1053x354 pixels
+File size: 2.6 KB
+Location: extracted_images\image_167_2.png
+--------------------------------------------------
+
+Page 168:
+Image: image_168_1.png
+Caption: We can see in Figure 4.12 that the spectrum of an impulse train is a real, con-
+Size: 1016x254 pixels
+File size: 2.6 KB
+Location: extracted_images\image_168_1.png
+--------------------------------------------------
+
+Page 168:
+Image: image_168_2.png
+Caption: We can see in Figure 4.12 that the spectrum of an impulse train is a real, con-
+Size: 1426x415 pixels
+File size: 6.8 KB
+Location: extracted_images\image_168_2.png
+--------------------------------------------------
+
+Page 169:
+Image: image_169_1.png
+Caption: depicted in Figure 4.14. Sampling will be studied in detail in Chapter 15.
+Size: 1394x359 pixels
+File size: 6.3 KB
+Location: extracted_images\image_169_1.png
+--------------------------------------------------
+
+Page 171:
+Image: image_171_1.png
+Caption: trum is shown in Figure 4.15. We can see that most of the power is concentrated at
+Size: 1185x840 pixels
+File size: 4.3 KB
+Location: extracted_images\image_171_1.png
+--------------------------------------------------
+
+Page 171:
+Image: image_171_2.png
+Caption: trum is shown in Figure 4.15. We can see that most of the power is concentrated at
+Size: 879x405 pixels
+File size: 2.3 KB
+Location: extracted_images\image_171_2.png
+--------------------------------------------------
+
+Page 172:
+Image: image_172_1.png
+Caption: distorted, as shown in Figure 4.17. This can occur in the line voltages of an indus-
+Size: 596x369 pixels
+File size: 3.4 KB
+Location: extracted_images\image_172_1.png
+--------------------------------------------------
+
+Page 173:
+Image: image_173_1.png
+Caption: For the distorted sine wave of Figure 4.17, suppose the power
+Size: 879x539 pixels
+File size: 4.9 KB
+Location: extracted_images\image_173_1.png
+--------------------------------------------------
+
+Page 174:
+Image: image_174_1.png
+Caption: signal of the system is shown in Figure 4.19.
+Size: 1392x458 pixels
+File size: 4.6 KB
+Location: extracted_images\image_174_1.png
+--------------------------------------------------
+
+Page 176:
+Image: image_176_1.png
+Caption: No caption found
+Size: 948x337 pixels
+File size: 4.3 KB
+Location: extracted_images\image_176_1.png
+--------------------------------------------------
+
+Page 177:
+Image: image_177_1.png
+Caption: The nonlinear circuit in Figure 4.21 is a full-wave rectifier. It is often used as a first
+Size: 738x372 pixels
+File size: 4.6 KB
+Location: extracted_images\image_177_1.png
+--------------------------------------------------
+
+Page 177:
+Image: image_177_2.png
+Caption: The nonlinear circuit in Figure 4.21 is a full-wave rectifier. It is often used as a first
+Size: 977x378 pixels
+File size: 4.3 KB
+Location: extracted_images\image_177_2.png
+--------------------------------------------------
+
+Page 178:
+Image: image_178_1.png
+Caption: No caption found
+Size: 945x443 pixels
+File size: 3.5 KB
+Location: extracted_images\image_178_1.png
+--------------------------------------------------
+
+Page 179:
+Image: image_179_1.png
+Caption: No caption found
+Size: 1501x616 pixels
+File size: 5.5 KB
+Location: extracted_images\image_179_1.png
+--------------------------------------------------
+
+Page 180:
+Image: image_180_1.png
+Caption: real and even), so we can use a single plot to represent it as in Figure 4.25.
+Size: 1495x567 pixels
+File size: 4.0 KB
+Location: extracted_images\image_180_1.png
+--------------------------------------------------
+
+Page 183:
+Image: image_183_1.png
+Caption: Consider the familiar rectangular waveform x(t) in Figure 4.26 of period T and
+Size: 1090x359 pixels
+File size: 3.6 KB
+Location: extracted_images\image_183_1.png
+--------------------------------------------------
+
+Page 184:
+Image: image_184_1.png
+Caption: shown in Figure 4.27.
+Size: 1297x582 pixels
+File size: 4.4 KB
+Location: extracted_images\image_184_1.png
+--------------------------------------------------
+
+Page 185:
+Image: image_185_1.png
+Caption: Figure 4.28 shows a plot of
+Size: 933x673 pixels
+File size: 8.6 KB
+Location: extracted_images\image_185_1.png
+--------------------------------------------------
+
+Page 186:
+Image: image_186_1.png
+Caption: tering the staircase approximation to a sine wave shown in Figure 4.29.
+Size: 1197x415 pixels
+File size: 4.2 KB
+Location: extracted_images\image_186_1.png
+--------------------------------------------------
+
+Page 188:
+Image: image_188_1.png
+Caption: The frequency response of the lowpass filter is shown in Figure 4.31.
+Size: 1177x828 pixels
+File size: 10.7 KB
+Location: extracted_images\image_188_1.png
+--------------------------------------------------
+
+Page 188:
+Image: image_188_2.png
+Caption: The frequency response of the lowpass filter is shown in Figure 4.31.
+Size: 659x312 pixels
+File size: 1.8 KB
+Location: extracted_images\image_188_2.png
+--------------------------------------------------
+
+Page 191:
+Image: image_191_1.png
+Caption: of the sawtooth signal of Figure 4.32.
+Size: 1090x395 pixels
+File size: 3.8 KB
+Location: extracted_images\image_191_1.png
+--------------------------------------------------
+
+Page 192:
+Image: image_192_1.png
+Caption: Consider the sawtooth signal y(t) in Figure 4.33.
+Size: 1090x493 pixels
+File size: 5.4 KB
+Location: extracted_images\image_192_1.png
+--------------------------------------------------
+
+Page 193:
+Image: image_193_1.png
+Caption: (a) Signal x(t) shown in Figure 4.34.
+Size: 1090x400 pixels
+File size: 2.7 KB
+Location: extracted_images\image_193_1.png
+--------------------------------------------------
+
+Page 195:
+Image: image_195_1.png
+Caption: in Figure 5.1.
+Size: 1090x394 pixels
+File size: 3.7 KB
+Location: extracted_images\image_195_1.png
+--------------------------------------------------
+
+Page 196:
+Image: image_196_1.png
+Caption: No caption found
+Size: 1307x502 pixels
+File size: 6.8 KB
+Location: extracted_images\image_196_1.png
+--------------------------------------------------
+
+Page 196:
+Image: image_196_2.png
+Caption: No caption found
+Size: 1398x542 pixels
+File size: 6.6 KB
+Location: extracted_images\image_196_2.png
+--------------------------------------------------
+
+Page 197:
+Image: image_197_1.png
+Caption: and zero elsewhere, as shown in Figure 5.4.
+Size: 1090x390 pixels
+File size: 1.8 KB
+Location: extracted_images\image_197_1.png
+--------------------------------------------------
+
+Page 201:
+Image: image_201_1.png
+Caption: �0, as shown on the right in Figure 5.5. Suppose that the spectrum of x(t) has a tri-
+Size: 1215x312 pixels
+File size: 4.6 KB
+Location: extracted_images\image_201_1.png
+--------------------------------------------------
+
+Page 202:
+Image: image_202_1.png
+Caption: No caption found
+Size: 1142x399 pixels
+File size: 4.9 KB
+Location: extracted_images\image_202_1.png
+--------------------------------------------------
+
+Page 204:
+Image: image_204_1.png
+Caption: Figure 5.8.
+Size: 1307x1072 pixels
+File size: 9.3 KB
+Location: extracted_images\image_204_1.png
+--------------------------------------------------
+
+Page 205:
+Image: image_205_1.png
+Caption: . This turns out to be the case as shown in Figure 5.9. If we
+Size: 1094x933 pixels
+File size: 8.4 KB
+Location: extracted_images\image_205_1.png
+--------------------------------------------------
+
+Page 206:
+Image: image_206_1.png
+Caption: in Figure 5.10.
+Size: 1108x920 pixels
+File size: 9.2 KB
+Location: extracted_images\image_206_1.png
+--------------------------------------------------
+
+Page 206:
+Image: image_206_2.png
+Caption: in Figure 5.10.
+Size: 650x381 pixels
+File size: 2.3 KB
+Location: extracted_images\image_206_2.png
+--------------------------------------------------
+
+Page 208:
+Image: image_208_1.png
+Caption: t = +� , as shown in Figure 5.11.
+Size: 858x382 pixels
+File size: 3.3 KB
+Location: extracted_images\image_208_1.png
+--------------------------------------------------
+
+Page 210:
+Image: image_210_1.png
+Caption: time domain and the frequency domain. For example, Figure 5.12 shows that a rec-
+Size: 1456x785 pixels
+File size: 11.4 KB
+Location: extracted_images\image_210_1.png
+--------------------------------------------------
+
+Page 212:
+Image: image_212_1.png
+Caption: sented in the block diagram of Figure 5.13.
+Size: 724x184 pixels
+File size: 2.3 KB
+Location: extracted_images\image_212_1.png
+--------------------------------------------------
+
+Page 212:
+Image: image_212_2.png
+Caption: sented in the block diagram of Figure 5.13.
+Size: 1079x179 pixels
+File size: 3.4 KB
+Location: extracted_images\image_212_2.png
+--------------------------------------------------
+
+Page 213:
+Image: image_213_1.png
+Caption: This feedback interconnection is shown in Figure 5.16.
+Size: 760x375 pixels
+File size: 3.9 KB
+Location: extracted_images\image_213_1.png
+--------------------------------------------------
+
+Page 213:
+Image: image_213_2.png
+Caption: This feedback interconnection is shown in Figure 5.16.
+Size: 970x435 pixels
+File size: 5.9 KB
+Location: extracted_images\image_213_2.png
+--------------------------------------------------
+
+Page 220:
+Image: image_220_1.png
+Caption: This Fourier transform, shown in Figure 5.18, is actually a periodic train of im-
+Size: 1090x425 pixels
+File size: 3.3 KB
+Location: extracted_images\image_220_1.png
+--------------------------------------------------
+
+Page 221:
+Image: image_221_1.png
+Caption: shown in Figure 5.19, where filtering is needed, is when a noise n(t) is added to a
+Size: 1090x380 pixels
+File size: 3.5 KB
+Location: extracted_images\image_221_1.png
+--------------------------------------------------
+
+Page 222:
+Image: image_222_1.png
+Caption: frequency response of this filter, shown in Figure 5.21, is given by
+Size: 593x256 pixels
+File size: 2.5 KB
+Location: extracted_images\image_222_1.png
+--------------------------------------------------
+
+Page 222:
+Image: image_222_2.png
+Caption: frequency response of this filter, shown in Figure 5.21, is given by
+Size: 1502x893 pixels
+File size: 9.6 KB
+Location: extracted_images\image_222_2.png
+--------------------------------------------------
+
+Page 223:
+Image: image_223_1.png
+Caption: lowpass filter is the running integral of the sinc function shown in Figure 5.22. Its
+Size: 552x291 pixels
+File size: 1.6 KB
+Location: extracted_images\image_223_1.png
+--------------------------------------------------
+
+Page 223:
+Image: image_223_2.png
+Caption: lowpass filter is the running integral of the sinc function shown in Figure 5.22. Its
+Size: 865x403 pixels
+File size: 3.6 KB
+Location: extracted_images\image_223_2.png
+--------------------------------------------------
+
+Page 224:
+Image: image_224_1.png
+Caption: Figure 5.24 shows a plot of the filter’s magnitude for N = 2 (second-order)
+Size: 892x385 pixels
+File size: 2.6 KB
+Location: extracted_images\image_224_1.png
+--------------------------------------------------
+
+Page 225:
+Image: image_225_1.png
+Caption: No caption found
+Size: 1029x383 pixels
+File size: 3.5 KB
+Location: extracted_images\image_225_1.png
+--------------------------------------------------
+
+Page 226:
+Image: image_226_1.png
+Caption: graph of Figure 5.25 with a single overshoot.
+Size: 818x354 pixels
+File size: 1.7 KB
+Location: extracted_images\image_226_1.png
+--------------------------------------------------
+
+Page 227:
+Image: image_227_1.png
+Caption: frequency response of the filter is shown in Figure 5.27.
+Size: 577x379 pixels
+File size: 1.9 KB
+Location: extracted_images\image_227_1.png
+--------------------------------------------------
+
+Page 228:
+Image: image_228_1.png
+Caption: �c1 and higher than its second cutoff frequency �c2, as shown in Figure 5.28. The
+Size: 1063x433 pixels
+File size: 3.6 KB
+Location: extracted_images\image_228_1.png
+--------------------------------------------------
+
+Page 229:
+Image: image_229_1.png
+Caption: No caption found
+Size: 704x420 pixels
+File size: 3.2 KB
+Location: extracted_images\image_229_1.png
+--------------------------------------------------
+
+Page 230:
+Image: image_230_1.png
+Caption: The signal is sketched in Figure 5.29.
+Size: 669x266 pixels
+File size: 2.2 KB
+Location: extracted_images\image_230_1.png
+--------------------------------------------------
+
+Page 231:
+Image: image_231_1.png
+Caption: (b) Periodic signal x(t) in Figure 5.30.
+Size: 1088x507 pixels
+File size: 4.0 KB
+Location: extracted_images\image_231_1.png
+--------------------------------------------------
+
+Page 232:
+Image: image_232_1.png
+Caption: No caption found
+Size: 730x388 pixels
+File size: 3.9 KB
+Location: extracted_images\image_232_1.png
+--------------------------------------------------
+
+Page 236:
+Image: image_236_1.png
+Caption: Consider the feedback interconnection in Figure 5.32 of two causal LTI differen-
+Size: 986x359 pixels
+File size: 3.9 KB
+Location: extracted_images\image_236_1.png
+--------------------------------------------------
+
+Page 238:
+Image: image_238_1.png
+Caption: Using MATLAB, we obtain the frequency response plots of Figure 5.33. These
+Size: 904x747 pixels
+File size: 9.1 KB
+Location: extracted_images\image_238_1.png
+--------------------------------------------------
+
+Page 239:
+Image: image_239_1.png
+Caption: Taking the inverse transform, we obtain the step response shown in Figure 5.34.
+Size: 416x289 pixels
+File size: 15.0 KB
+Location: extracted_images\image_239_1.png
+--------------------------------------------------
+
+Page 240:
+Image: image_240_1.png
+Caption: No caption found
+Size: 823x342 pixels
+File size: 2.4 KB
+Location: extracted_images\image_240_1.png
+--------------------------------------------------
+
+Page 241:
+Image: image_241_1.png
+Caption: Compute the Fourier transform of the periodic signal x(t) shown in Figure 5.36.
+Size: 1085x340 pixels
+File size: 4.1 KB
+Location: extracted_images\image_241_1.png
+--------------------------------------------------
+
+Page 241:
+Image: image_241_2.png
+Caption: Compute the Fourier transform of the periodic signal x(t) shown in Figure 5.36.
+Size: 1502x477 pixels
+File size: 6.3 KB
+Location: extracted_images\image_241_2.png
+--------------------------------------------------
+
+Page 243:
+Image: image_243_1.png
+Caption: shown in Figure 6.1.
+Size: 391x278 pixels
+File size: 1.5 KB
+Location: extracted_images\image_243_1.png
+--------------------------------------------------
+
+Page 244:
+Image: image_244_1.png
+Caption: Laplace transform. It is depicted in Figure 6.2.
+Size: 577x359 pixels
+File size: 2.9 KB
+Location: extracted_images\image_244_1.png
+--------------------------------------------------
+
+Page 244:
+Image: image_244_2.png
+Caption: Laplace transform. It is depicted in Figure 6.2.
+Size: 440x272 pixels
+File size: 1.6 KB
+Location: extracted_images\image_244_2.png
+--------------------------------------------------
+
+Page 245:
+Image: image_245_1.png
+Caption: (see Figure 6.4).
+Size: 579x373 pixels
+File size: 4.0 KB
+Location: extracted_images\image_245_1.png
+--------------------------------------------------
+
+Page 254:
+Image: image_254_1.png
+Caption: No caption found
+Size: 465x315 pixels
+File size: 1.8 KB
+Location: extracted_images\image_254_1.png
+--------------------------------------------------
+
+Page 254:
+Image: image_254_2.png
+Caption: No caption found
+Size: 577x368 pixels
+File size: 3.0 KB
+Location: extracted_images\image_254_2.png
+--------------------------------------------------
+
+Page 256:
+Image: image_256_1.png
+Caption: shown on the left in Figure 6.7. After the time expansion and reversal
+Size: 1272x361 pixels
+File size: 7.1 KB
+Location: extracted_images\image_256_1.png
+--------------------------------------------------
+
+Page 259:
+Image: image_259_1.png
+Caption: , shown in Figure 6.8.
+Size: 762x157 pixels
+File size: 1.9 KB
+Location: extracted_images\image_259_1.png
+--------------------------------------------------
+
+Page 262:
+Image: image_262_1.png
+Caption: No caption found
+Size: 442x294 pixels
+File size: 1.9 KB
+Location: extracted_images\image_262_1.png
+--------------------------------------------------
+
+Page 262:
+Image: image_262_2.png
+Caption: No caption found
+Size: 377x302 pixels
+File size: 2.1 KB
+Location: extracted_images\image_262_2.png
+--------------------------------------------------
+
+Page 262:
+Image: image_262_3.png
+Caption: No caption found
+Size: 427x311 pixels
+File size: 1.9 KB
+Location: extracted_images\image_262_3.png
+--------------------------------------------------
+
+Page 268:
+Image: image_268_1.png
+Caption: (b) Signal x2(t) shown in Figure 6.10.
+Size: 713x322 pixels
+File size: 2.5 KB
+Location: extracted_images\image_268_1.png
+--------------------------------------------------
+
+Page 269:
+Image: image_269_1.png
+Caption: No caption found
+Size: 662x521 pixels
+File size: 3.8 KB
+Location: extracted_images\image_269_1.png
+--------------------------------------------------
+
+Page 270:
+Image: image_270_1.png
+Caption: of Figure 6.11.
+Size: 721x398 pixels
+File size: 2.7 KB
+Location: extracted_images\image_270_1.png
+--------------------------------------------------
+
+Page 272:
+Image: image_272_1.png
+Caption: shown in Figure 6.12, find the
+Size: 569x183 pixels
+File size: 1.8 KB
+Location: extracted_images\image_272_1.png
+--------------------------------------------------
+
+Page 275:
+Image: image_275_1.png
+Caption: No caption found
+Size: 377x260 pixels
+File size: 1.7 KB
+Location: extracted_images\image_275_1.png
+--------------------------------------------------
+
+Page 275:
+Image: image_275_2.png
+Caption: No caption found
+Size: 411x258 pixels
+File size: 1.7 KB
+Location: extracted_images\image_275_2.png
+--------------------------------------------------
+
+Page 275:
+Image: image_275_3.png
+Caption: No caption found
+Size: 377x277 pixels
+File size: 1.5 KB
+Location: extracted_images\image_275_3.png
+--------------------------------------------------
+
+Page 281:
+Image: image_281_1.png
+Caption: No caption found
+Size: 850x528 pixels
+File size: 7.5 KB
+Location: extracted_images\image_281_1.png
+--------------------------------------------------
+
+Page 282:
+Image: image_282_1.png
+Caption: Suppose we know that the input of the differential LTI system depicted in Figure
+Size: 709x199 pixels
+File size: 2.1 KB
+Location: extracted_images\image_282_1.png
+--------------------------------------------------
+
+Page 283:
+Image: image_283_1.png
+Caption: are in the open left half-plane, as shown in Figure 7.3.
+Size: 365x225 pixels
+File size: 22.2 KB
+Location: extracted_images\image_283_1.png
+--------------------------------------------------
+
+Page 284:
+Image: image_284_1.png
+Caption: Figure 7.4 to a step in the desired velocity input vdes from 0 km/h to 100 km/h, where
+Size: 1160x329 pixels
+File size: 5.9 KB
+Location: extracted_images\image_284_1.png
+--------------------------------------------------
+
+Page 286:
+Image: image_286_1.png
+Caption: This speed response is shown in Figure 7.5.
+Size: 1124x600 pixels
+File size: 6.9 KB
+Location: extracted_images\image_286_1.png
+--------------------------------------------------
+
+Page 287:
+Image: image_287_1.png
+Caption: system as a combination of three basic elements shown in Figure 7.6: the integra-
+Size: 1185x207 pixels
+File size: 3.4 KB
+Location: extracted_images\image_287_1.png
+--------------------------------------------------
+
+Page 287:
+Image: image_287_2.png
+Caption: system as a combination of three basic elements shown in Figure 7.6: the integra-
+Size: 758x347 pixels
+File size: 3.5 KB
+Location: extracted_images\image_287_2.png
+--------------------------------------------------
+
+Page 288:
+Image: image_288_1.png
+Caption: This equation can be realized as in Figure 7.8. The idea is that the variable at
+Size: 950x418 pixels
+File size: 6.2 KB
+Location: extracted_images\image_288_1.png
+--------------------------------------------------
+
+Page 289:
+Image: image_289_1.png
+Caption: in Figure 7.10 for the grouping
+Size: 867x600 pixels
+File size: 7.1 KB
+Location: extracted_images\image_289_1.png
+--------------------------------------------------
+
+Page 289:
+Image: image_289_2.png
+Caption: in Figure 7.10 for the grouping
+Size: 1183x409 pixels
+File size: 6.8 KB
+Location: extracted_images\image_289_2.png
+--------------------------------------------------
+
+Page 290:
+Image: image_290_1.png
+Caption: breaking up a general transfer function into two subsystems as in Figure 7.11.
+Size: 1297x158 pixels
+File size: 3.5 KB
+Location: extracted_images\image_290_1.png
+--------------------------------------------------
+
+Page 290:
+Image: image_290_2.png
+Caption: breaking up a general transfer function into two subsystems as in Figure 7.11.
+Size: 1316x640 pixels
+File size: 10.3 KB
+Location: extracted_images\image_290_2.png
+--------------------------------------------------
+
+Page 296:
+Image: image_296_1.png
+Caption: as in Figure 7.13.
+Size: 1407x149 pixels
+File size: 3.5 KB
+Location: extracted_images\image_296_1.png
+--------------------------------------------------
+
+Page 297:
+Image: image_297_1.png
+Caption: as follows. Figure 7.15 shows the corresponding parallel realization.
+Size: 1400x578 pixels
+File size: 11.8 KB
+Location: extracted_images\image_297_1.png
+--------------------------------------------------
+
+Page 298:
+Image: image_298_1.png
+Caption: which corresponds to the desired parallel realization in Figure 7.16.
+Size: 1016x1020 pixels
+File size: 12.8 KB
+Location: extracted_images\image_298_1.png
+--------------------------------------------------
+
+Page 298:
+Image: image_298_2.png
+Caption: which corresponds to the desired parallel realization in Figure 7.16.
+Size: 1211x719 pixels
+File size: 11.7 KB
+Location: extracted_images\image_298_2.png
+--------------------------------------------------
+
+Page 306:
+Image: image_306_1.png
+Caption: No caption found
+Size: 806x515 pixels
+File size: 3.6 KB
+Location: extracted_images\image_306_1.png
+--------------------------------------------------
+
+Page 306:
+Image: image_306_2.png
+Caption: No caption found
+Size: 616x630 pixels
+File size: 4.4 KB
+Location: extracted_images\image_306_2.png
+--------------------------------------------------
+
+Page 307:
+Image: image_307_1.png
+Caption: zeros are depicted in Figure 8.3.
+Size: 748x482 pixels
+File size: 5.3 KB
+Location: extracted_images\image_307_1.png
+--------------------------------------------------
+
+Page 308:
+Image: image_308_1.png
+Caption: is represented as a surface over the complex plane, is shown in Figure 8.4. The
+Size: 457x295 pixels
+File size: 30.5 KB
+Location: extracted_images\image_308_1.png
+--------------------------------------------------
+
+Page 311:
+Image: image_311_1.png
+Caption: Bode plot as shown in Figure 8.5 (dotted line: actual magnitude.)
+Size: 904x552 pixels
+File size: 6.2 KB
+Location: extracted_images\image_311_1.png
+--------------------------------------------------
+
+Page 312:
+Image: image_312_1.png
+Caption: The Bode phase plot is shown in Figure 8.6. The interactive Bode applet on the
+Size: 995x403 pixels
+File size: 5.3 KB
+Location: extracted_images\image_312_1.png
+--------------------------------------------------
+
+Page 313:
+Image: image_313_1.png
+Caption: above magnitude plot flipped around the frequency axis (see Figure 8.7), and like-
+Size: 836x422 pixels
+File size: 5.0 KB
+Location: extracted_images\image_313_1.png
+--------------------------------------------------
+
+Page 313:
+Image: image_313_2.png
+Caption: above magnitude plot flipped around the frequency axis (see Figure 8.7), and like-
+Size: 912x391 pixels
+File size: 4.8 KB
+Location: extracted_images\image_313_2.png
+--------------------------------------------------
+
+Page 314:
+Image: image_314_1.png
+Caption: magnitude graph (as dashed lines) and then add them together as shown in Figure 8.9.
+Size: 997x618 pixels
+File size: 7.6 KB
+Location: extracted_images\image_314_1.png
+--------------------------------------------------
+
+Page 314:
+Image: image_314_2.png
+Caption: magnitude graph (as dashed lines) and then add them together as shown in Figure 8.9.
+Size: 1169x641 pixels
+File size: 7.4 KB
+Location: extracted_images\image_314_2.png
+--------------------------------------------------
+
+Page 316:
+Image: image_316_1.png
+Caption: In the case � ≠ 0, the Bode plot is as shown in Figure 8.11 and Figure 8.12.
+Size: 1272x486 pixels
+File size: 7.9 KB
+Location: extracted_images\image_316_1.png
+--------------------------------------------------
+
+Page 316:
+Image: image_316_2.png
+Caption: In the case � ≠ 0, the Bode plot is as shown in Figure 8.11 and Figure 8.12.
+Size: 1215x529 pixels
+File size: 7.7 KB
+Location: extracted_images\image_316_2.png
+--------------------------------------------------
+
+Page 317:
+Image: image_317_1.png
+Caption: shown in Figure 8.14 and Figure 8.15.
+Size: 1116x547 pixels
+File size: 6.4 KB
+Location: extracted_images\image_317_1.png
+--------------------------------------------------
+
+Page 317:
+Image: image_317_2.png
+Caption: shown in Figure 8.14 and Figure 8.15.
+Size: 1140x489 pixels
+File size: 7.2 KB
+Location: extracted_images\image_317_2.png
+--------------------------------------------------
+
+Page 318:
+Image: image_318_1.png
+Caption: and its Bode plot is given in Figure 8.16. Note that the high frequencies are ampli-
+Size: 1245x533 pixels
+File size: 7.4 KB
+Location: extracted_images\image_318_1.png
+--------------------------------------------------
+
+Page 318:
+Image: image_318_2.png
+Caption: and its Bode plot is given in Figure 8.16. Note that the high frequencies are ampli-
+Size: 1070x975 pixels
+File size: 11.5 KB
+Location: extracted_images\image_318_2.png
+--------------------------------------------------
+
+Page 319:
+Image: image_319_1.png
+Caption: system can be realized with the same interconnection as that shown in Figure 8.13
+Size: 1564x415 pixels
+File size: 8.6 KB
+Location: extracted_images\image_319_1.png
+--------------------------------------------------
+
+Page 323:
+Image: image_323_1.png
+Caption: ter8, was used to produce the Bode plots in Figure 8.19.
+Size: 940x864 pixels
+File size: 9.6 KB
+Location: extracted_images\image_323_1.png
+--------------------------------------------------
+
+Page 324:
+Image: image_324_1.png
+Caption: No caption found
+Size: 493x832 pixels
+File size: 62.3 KB
+Location: extracted_images\image_324_1.png
+--------------------------------------------------
+
+Page 325:
+Image: image_325_1.png
+Caption: ond-order filter shown in Figure 8.20 is given by
+Size: 1143x558 pixels
+File size: 8.0 KB
+Location: extracted_images\image_325_1.png
+--------------------------------------------------
+
+Page 326:
+Image: image_326_1.png
+Caption: final value, as illustrated in Figure 8.21.
+Size: 899x379 pixels
+File size: 3.4 KB
+Location: extracted_images\image_326_1.png
+--------------------------------------------------
+
+Page 327:
+Image: image_327_1.png
+Caption: sponse reaches the value 0.95 and the value 0.05, as shown in Figure 8.22:
+Size: 938x427 pixels
+File size: 3.2 KB
+Location: extracted_images\image_327_1.png
+--------------------------------------------------
+
+Page 328:
+Image: image_328_1.png
+Caption: (see Figure 8.23).
+Size: 940x440 pixels
+File size: 3.4 KB
+Location: extracted_images\image_328_1.png
+--------------------------------------------------
+
+Page 329:
+Image: image_329_1.png
+Caption: and the step response is (see Figure 8.24)
+Size: 938x404 pixels
+File size: 3.3 KB
+Location: extracted_images\image_329_1.png
+--------------------------------------------------
+
+Page 330:
+Image: image_330_1.png
+Caption: An important thing to notice in Figure 8.24 is that the step response starts in the
+Size: 916x406 pixels
+File size: 3.2 KB
+Location: extracted_images\image_330_1.png
+--------------------------------------------------
+
+Page 332:
+Image: image_332_1.png
+Caption: within 5% of its final value for all subsequent times, as depicted in Figure 8.26.
+Size: 938x388 pixels
+File size: 3.6 KB
+Location: extracted_images\image_332_1.png
+--------------------------------------------------
+
+Page 333:
+Image: image_333_1.png
+Caption: the step response is (see Figure 8.27)
+Size: 897x377 pixels
+File size: 3.0 KB
+Location: extracted_images\image_333_1.png
+--------------------------------------------------
+
+Page 334:
+Image: image_334_1.png
+Caption: We can see this from the step response plot in Figure 8.26. The response enters the
+Size: 916x595 pixels
+File size: 5.9 KB
+Location: extracted_images\image_334_1.png
+--------------------------------------------------
+
+Page 336:
+Image: image_336_1.png
+Caption: . The Bode plot of this system is given in Figure 8.29.
+Size: 1036x657 pixels
+File size: 7.0 KB
+Location: extracted_images\image_336_1.png
+--------------------------------------------------
+
+Page 337:
+Image: image_337_1.png
+Caption: plot of Figure 8.30. Note that any non-minimum phase transfer function can be ex-
+Size: 1161x1019 pixels
+File size: 11.9 KB
+Location: extracted_images\image_337_1.png
+--------------------------------------------------
+
+Page 339:
+Image: image_339_1.png
+Caption: The pole-zero plot is shown in Figure 8.31, and the Bode plot is shown in Figure 8.32.
+Size: 808x333 pixels
+File size: 4.2 KB
+Location: extracted_images\image_339_1.png
+--------------------------------------------------
+
+Page 339:
+Image: image_339_2.png
+Caption: The pole-zero plot is shown in Figure 8.31, and the Bode plot is shown in Figure 8.32.
+Size: 706x1107 pixels
+File size: 9.3 KB
+Location: extracted_images\image_339_2.png
+--------------------------------------------------
+
+Page 340:
+Image: image_340_1.png
+Caption: The pole-zero plot is given in Figure 8.33.
+Size: 654x383 pixels
+File size: 3.1 KB
+Location: extracted_images\image_340_1.png
+--------------------------------------------------
+
+Page 340:
+Image: image_340_2.png
+Caption: The pole-zero plot is given in Figure 8.33.
+Size: 946x1004 pixels
+File size: 10.5 KB
+Location: extracted_images\image_340_2.png
+--------------------------------------------------
+
+Page 341:
+Image: image_341_1.png
+Caption: The pole zero plot is shown in Figure 8.35, and the Bode plot is shown in Fig-
+Size: 321x191 pixels
+File size: 18.7 KB
+Location: extracted_images\image_341_1.png
+--------------------------------------------------
+
+Page 342:
+Image: image_342_1.png
+Caption: No caption found
+Size: 912x1412 pixels
+File size: 13.3 KB
+Location: extracted_images\image_342_1.png
+--------------------------------------------------
+
+Page 342:
+Image: image_342_2.png
+Caption: No caption found
+Size: 1331x551 pixels
+File size: 7.8 KB
+Location: extracted_images\image_342_2.png
+--------------------------------------------------
+
+Page 344:
+Image: image_344_1.png
+Caption: This step response is plotted in Figure 8.38. The mass position in steady state
+Size: 825x583 pixels
+File size: 5.2 KB
+Location: extracted_images\image_344_1.png
+--------------------------------------------------
+
+Page 347:
+Image: image_347_1.png
+Caption: shown in Figure 8.39.
+Size: 1265x417 pixels
+File size: 6.4 KB
+Location: extracted_images\image_347_1.png
+--------------------------------------------------
+
+Page 349:
+Image: image_349_1.png
+Caption: Figure 9.1 and we want to solve for the voltage across the resistor v(t).
+Size: 955x368 pixels
+File size: 4.6 KB
+Location: extracted_images\image_349_1.png
+--------------------------------------------------
+
+Page 350:
+Image: image_350_1.png
+Caption: Consider the RLC circuit of Figure 9.2.
+Size: 1140x369 pixels
+File size: 5.8 KB
+Location: extracted_images\image_350_1.png
+--------------------------------------------------
+
+Page 351:
+Image: image_351_1.png
+Caption: Suppose that we have the circuit in Figure 9.3 and we want to
+Size: 970x267 pixels
+File size: 4.3 KB
+Location: extracted_images\image_351_1.png
+--------------------------------------------------
+
+Page 353:
+Image: image_353_1.png
+Caption: No caption found
+Size: 962x269 pixels
+File size: 4.4 KB
+Location: extracted_images\image_353_1.png
+--------------------------------------------------
+
+Page 354:
+Image: image_354_1.png
+Caption: For the circuit shown in Figure 9.5, we want to solve for the volt-
+Size: 968x336 pixels
+File size: 4.4 KB
+Location: extracted_images\image_354_1.png
+--------------------------------------------------
+
+Page 354:
+Image: image_354_2.png
+Caption: For the circuit shown in Figure 9.5, we want to solve for the volt-
+Size: 255x190 pixels
+File size: 5.7 KB
+Location: extracted_images\image_354_2.png
+--------------------------------------------------
+
+Page 355:
+Image: image_355_1.png
+Caption: in Figure 9.7.
+Size: 263x180 pixels
+File size: 6.0 KB
+Location: extracted_images\image_355_1.png
+--------------------------------------------------
+
+Page 355:
+Image: image_355_2.png
+Caption: in Figure 9.7.
+Size: 479x216 pixels
+File size: 13.6 KB
+Location: extracted_images\image_355_2.png
+--------------------------------------------------
+
+Page 356:
+Image: image_356_1.png
+Caption: create “supernodes” around them, as shown in Figure 9.9.
+Size: 1068x440 pixels
+File size: 7.3 KB
+Location: extracted_images\image_356_1.png
+--------------------------------------------------
+
+Page 357:
+Image: image_357_1.png
+Caption: Suppose that we have the circuit in Figure 9.10 and we want to
+Size: 931x254 pixels
+File size: 4.0 KB
+Location: extracted_images\image_357_1.png
+--------------------------------------------------
+
+Page 358:
+Image: image_358_1.png
+Caption: shown in Figure 9.12.
+Size: 278x124 pixels
+File size: 5.1 KB
+Location: extracted_images\image_358_1.png
+--------------------------------------------------
+
+Page 358:
+Image: image_358_2.png
+Caption: shown in Figure 9.12.
+Size: 251x135 pixels
+File size: 5.3 KB
+Location: extracted_images\image_358_2.png
+--------------------------------------------------
+
+Page 358:
+Image: image_358_3.png
+Caption: shown in Figure 9.12.
+Size: 497x132 pixels
+File size: 11.7 KB
+Location: extracted_images\image_358_3.png
+--------------------------------------------------
+
+Page 360:
+Image: image_360_1.png
+Caption: The Laplace domain circuit is shown in Figure 9.16.
+Size: 1045x256 pixels
+File size: 4.2 KB
+Location: extracted_images\image_360_1.png
+--------------------------------------------------
+
+Page 360:
+Image: image_360_2.png
+Caption: The Laplace domain circuit is shown in Figure 9.16.
+Size: 1107x913 pixels
+File size: 10.5 KB
+Location: extracted_images\image_360_2.png
+--------------------------------------------------
+
+Page 361:
+Image: image_361_1.png
+Caption: No caption found
+Size: 840x428 pixels
+File size: 4.6 KB
+Location: extracted_images\image_361_1.png
+--------------------------------------------------
+
+Page 362:
+Image: image_362_1.png
+Caption: No caption found
+Size: 792x1332 pixels
+File size: 11.2 KB
+Location: extracted_images\image_362_1.png
+--------------------------------------------------
+
+Page 363:
+Image: image_363_1.png
+Caption: The circuit in Figure 9.18 has initial conditions on the capacitor
+Size: 760x209 pixels
+File size: 2.7 KB
+Location: extracted_images\image_363_1.png
+--------------------------------------------------
+
+Page 364:
+Image: image_364_1.png
+Caption: No caption found
+Size: 502x126 pixels
+File size: 12.6 KB
+Location: extracted_images\image_364_1.png
+--------------------------------------------------
+
+Page 366:
+Image: image_366_1.png
+Caption: The circuit in Figure 9.20 has initial conditions on its capacitor
+Size: 797x222 pixels
+File size: 2.8 KB
+Location: extracted_images\image_366_1.png
+--------------------------------------------------
+
+Page 366:
+Image: image_366_2.png
+Caption: The circuit in Figure 9.20 has initial conditions on its capacitor
+Size: 862x307 pixels
+File size: 3.6 KB
+Location: extracted_images\image_366_2.png
+--------------------------------------------------
+
+Page 367:
+Image: image_367_1.png
+Caption: Consider the causal op-amp circuit initially at rest depicted in Figure 9.22. Its LTI
+Size: 1378x696 pixels
+File size: 9.1 KB
+Location: extracted_images\image_367_1.png
+--------------------------------------------------
+
+Page 368:
+Image: image_368_1.png
+Caption: The circuit in Figure 9.23 has initial conditions on the capacitor
+Size: 794x236 pixels
+File size: 2.8 KB
+Location: extracted_images\image_368_1.png
+--------------------------------------------------
+
+Page 372:
+Image: image_372_1.png
+Caption: fer function H(s) as a cascade of two subsystems as shown in Figure 10.1.
+Size: 1427x166 pixels
+File size: 3.9 KB
+Location: extracted_images\image_372_1.png
+--------------------------------------------------
+
+Page 372:
+Image: image_372_2.png
+Caption: fer function H(s) as a cascade of two subsystems as shown in Figure 10.1.
+Size: 1499x753 pixels
+File size: 15.6 KB
+Location: extracted_images\image_372_2.png
+--------------------------------------------------
+
+Page 375:
+Image: image_375_1.png
+Caption: No caption found
+Size: 1307x714 pixels
+File size: 11.4 KB
+Location: extracted_images\image_375_1.png
+--------------------------------------------------
+
+Page 376:
+Image: image_376_1.png
+Caption: capacitor (RLC) circuit of Figure 10.4. The state variables are the inductor current iL(t)
+Size: 882x283 pixels
+File size: 3.3 KB
+Location: extracted_images\image_376_1.png
+--------------------------------------------------
+
+Page 378:
+Image: image_378_1.png
+Caption: and has the controllable canonical realization given in Figure 10.5.
+Size: 1146x428 pixels
+File size: 7.5 KB
+Location: extracted_images\image_378_1.png
+--------------------------------------------------
+
+Page 379:
+Image: image_379_1.png
+Caption: This equation is represented by the block diagram in Figure 10.6.
+Size: 1194x640 pixels
+File size: 7.3 KB
+Location: extracted_images\image_379_1.png
+--------------------------------------------------
+
+Page 386:
+Image: image_386_1.png
+Caption: picted in Figure 10.7.
+Size: 1116x255 pixels
+File size: 2.7 KB
+Location: extracted_images\image_386_1.png
+--------------------------------------------------
+
+Page 390:
+Image: image_390_1.png
+Caption: the phase plane in Figure 10.9.
+Size: 600x267 pixels
+File size: 23.4 KB
+Location: extracted_images\image_390_1.png
+--------------------------------------------------
+
+Page 391:
+Image: image_391_1.png
+Caption: The block diagram in Figure 10.10 is often used to describe a continuous-time
+Size: 945x688 pixels
+File size: 6.8 KB
+Location: extracted_images\image_391_1.png
+--------------------------------------------------
+
+Page 391:
+Image: image_391_2.png
+Caption: The block diagram in Figure 10.10 is often used to describe a continuous-time
+Size: 1397x457 pixels
+File size: 7.9 KB
+Location: extracted_images\image_391_2.png
+--------------------------------------------------
+
+Page 395:
+Image: image_395_1.png
+Caption: The system’s controllable canonical state-space realization is shown in Figure 10.11.
+Size: 1501x719 pixels
+File size: 12.9 KB
+Location: extracted_images\image_395_1.png
+--------------------------------------------------
+
+Page 396:
+Image: image_396_1.png
+Caption: No caption found
+Size: 1503x786 pixels
+File size: 12.7 KB
+Location: extracted_images\image_396_1.png
+--------------------------------------------------
+
+Page 401:
+Image: image_401_1.png
+Caption: No caption found
+Size: 367x295 pixels
+File size: 11.1 KB
+Location: extracted_images\image_401_1.png
+--------------------------------------------------
+
+Page 402:
+Image: image_402_1.png
+Caption: main tool for analysis and design. The block diagram in Figure 11.2 depicts a gen-
+Size: 1417x500 pixels
+File size: 12.3 KB
+Location: extracted_images\image_402_1.png
+--------------------------------------------------
+
+Page 403:
+Image: image_403_1.png
+Caption: a potentiometer measurement of the load angle as shown in Figure 11.3.
+Size: 1028x469 pixels
+File size: 9.1 KB
+Location: extracted_images\image_403_1.png
+--------------------------------------------------
+
+Page 404:
+Image: image_404_1.png
+Caption: example is given in Figure 11.4.
+Size: 1397x458 pixels
+File size: 8.2 KB
+Location: extracted_images\image_404_1.png
+--------------------------------------------------
+
+Page 405:
+Image: image_405_1.png
+Caption: tor. The block diagram shown in Figure 11.6 is for a regulator that must reject the
+Size: 765x260 pixels
+File size: 3.1 KB
+Location: extracted_images\image_405_1.png
+--------------------------------------------------
+
+Page 406:
+Image: image_406_1.png
+Caption: for the standard block diagram in Figure 11.6. The term sensitivity can be attributed
+Size: 816x287 pixels
+File size: 3.6 KB
+Location: extracted_images\image_406_1.png
+--------------------------------------------------
+
+Page 407:
+Image: image_407_1.png
+Caption: for the control system depicted in Figure
+Size: 828x286 pixels
+File size: 4.1 KB
+Location: extracted_images\image_407_1.png
+--------------------------------------------------
+
+Page 408:
+Image: image_408_1.png
+Caption: , as shown in Figure 11.9.
+Size: 933x698 pixels
+File size: 8.1 KB
+Location: extracted_images\image_408_1.png
+--------------------------------------------------
+
+Page 408:
+Image: image_408_2.png
+Caption: , as shown in Figure 11.9.
+Size: 882x624 pixels
+File size: 6.3 KB
+Location: extracted_images\image_408_2.png
+--------------------------------------------------
+
+Page 409:
+Image: image_409_1.png
+Caption: problems for the standard unity feedback control system shown in Figure 11.10.
+Size: 775x250 pixels
+File size: 3.4 KB
+Location: extracted_images\image_409_1.png
+--------------------------------------------------
+
+Page 410:
+Image: image_410_1.png
+Caption: ing system in Figure 11.11.
+Size: 772x245 pixels
+File size: 3.4 KB
+Location: extracted_images\image_410_1.png
+--------------------------------------------------
+
+Page 411:
+Image: image_411_1.png
+Caption: The corresponding time-domain output signal is plotted in Figure 11.13, to-
+Size: 828x608 pixels
+File size: 5.7 KB
+Location: extracted_images\image_411_1.png
+--------------------------------------------------
+
+Page 411:
+Image: image_411_2.png
+Caption: The corresponding time-domain output signal is plotted in Figure 11.13, to-
+Size: 535x400 pixels
+File size: 24.0 KB
+Location: extracted_images\image_411_2.png
+--------------------------------------------------
+
+Page 412:
+Image: image_412_1.png
+Caption: in Figure 11.14:
+Size: 870x623 pixels
+File size: 5.9 KB
+Location: extracted_images\image_412_1.png
+--------------------------------------------------
+
+Page 414:
+Image: image_414_1.png
+Caption: The closed-loop system in Figure 11.15 is stable if and only if the transfer functions
+Size: 1001x297 pixels
+File size: 4.3 KB
+Location: extracted_images\image_414_1.png
+--------------------------------------------------
+
+Page 415:
+Image: image_415_1.png
+Caption: Figure 11.16.
+Size: 992x244 pixels
+File size: 3.7 KB
+Location: extracted_images\image_415_1.png
+--------------------------------------------------
+
+Page 420:
+Image: image_420_1.png
+Caption: No caption found
+Size: 758x266 pixels
+File size: 3.2 KB
+Location: extracted_images\image_420_1.png
+--------------------------------------------------
+
+Page 422:
+Image: image_422_1.png
+Caption: root locus in Figure 11.19. This M-file can be found on the companion CD-ROM
+Size: 1146x629 pixels
+File size: 6.8 KB
+Location: extracted_images\image_422_1.png
+--------------------------------------------------
+
+Page 423:
+Image: image_423_1.png
+Caption: No caption found
+Size: 1243x845 pixels
+File size: 10.0 KB
+Location: extracted_images\image_423_1.png
+--------------------------------------------------
+
+Page 425:
+Image: image_425_1.png
+Caption: shown in Figure 11.21. It starts at 0 (magnitude of 0, phase of �/2) at
+Size: 602x442 pixels
+File size: 3.9 KB
+Location: extracted_images\image_425_1.png
+--------------------------------------------------
+
+Page 426:
+Image: image_426_1.png
+Caption: No caption found
+Size: 414x317 pixels
+File size: 20.3 KB
+Location: extracted_images\image_426_1.png
+--------------------------------------------------
+
+Page 427:
+Image: image_427_1.png
+Caption: Figure 11.22 is stable, where
+Size: 758x242 pixels
+File size: 3.2 KB
+Location: extracted_images\image_427_1.png
+--------------------------------------------------
+
+Page 427:
+Image: image_427_2.png
+Caption: Figure 11.22 is stable, where
+Size: 931x630 pixels
+File size: 7.2 KB
+Location: extracted_images\image_427_2.png
+--------------------------------------------------
+
+Page 429:
+Image: image_429_1.png
+Caption: of L(s) and its Nyquist plot are shown in Figure 11.25.
+Size: 708x527 pixels
+File size: 6.6 KB
+Location: extracted_images\image_429_1.png
+--------------------------------------------------
+
+Page 430:
+Image: image_430_1.png
+Caption: No caption found
+Size: 771x521 pixels
+File size: 38.6 KB
+Location: extracted_images\image_430_1.png
+--------------------------------------------------
+
+Page 431:
+Image: image_431_1.png
+Caption: L(s) and its Nyquist plot are shown in Figure 11.26.
+Size: 1499x1093 pixels
+File size: 25.6 KB
+Location: extracted_images\image_431_1.png
+--------------------------------------------------
+
+Page 433:
+Image: image_433_1.png
+Caption: Root locus: See Figure 11.28.
+Size: 836x297 pixels
+File size: 4.1 KB
+Location: extracted_images\image_433_1.png
+--------------------------------------------------
+
+Page 434:
+Image: image_434_1.png
+Caption: We want to analyze the stability of the tracking control system shown in Figure
+Size: 1311x871 pixels
+File size: 8.8 KB
+Location: extracted_images\image_434_1.png
+--------------------------------------------------
+
+Page 435:
+Image: image_435_1.png
+Caption: No caption found
+Size: 762x236 pixels
+File size: 3.3 KB
+Location: extracted_images\image_435_1.png
+--------------------------------------------------
+
+Page 437:
+Image: image_437_1.png
+Caption: and its Bode plot is shown in Figure 11.32.
+Size: 760x265 pixels
+File size: 3.4 KB
+Location: extracted_images\image_437_1.png
+--------------------------------------------------
+
+Page 437:
+Image: image_437_2.png
+Caption: and its Bode plot is shown in Figure 11.32.
+Size: 1338x895 pixels
+File size: 11.6 KB
+Location: extracted_images\image_437_2.png
+--------------------------------------------------
+
+Page 438:
+Image: image_438_1.png
+Caption: Consider the LTI feedback control system shown in Figure 11.33.
+Size: 1448x922 pixels
+File size: 15.2 KB
+Location: extracted_images\image_438_1.png
+--------------------------------------------------
+
+Page 439:
+Image: image_439_1.png
+Caption: We want to analyze the stability of the tracking control system shown in Figure
+Size: 750x265 pixels
+File size: 3.3 KB
+Location: extracted_images\image_439_1.png
+--------------------------------------------------
+
+Page 439:
+Image: image_439_2.png
+Caption: We want to analyze the stability of the tracking control system shown in Figure
+Size: 1099x286 pixels
+File size: 5.4 KB
+Location: extracted_images\image_439_2.png
+--------------------------------------------------
+
+Page 440:
+Image: image_440_1.png
+Caption: Consider the LTI unity feedback regulator in Figure 11.35.
+Size: 875x275 pixels
+File size: 3.9 KB
+Location: extracted_images\image_440_1.png
+--------------------------------------------------
+
+Page 440:
+Image: image_440_2.png
+Caption: Consider the LTI unity feedback regulator in Figure 11.35.
+Size: 1062x293 pixels
+File size: 5.4 KB
+Location: extracted_images\image_440_2.png
+--------------------------------------------------
+
+Page 441:
+Image: image_441_1.png
+Caption: We want to analyze the stability of the tracking control system in Figure 11.37,
+Size: 750x225 pixels
+File size: 3.2 KB
+Location: extracted_images\image_441_1.png
+--------------------------------------------------
+
+Page 442:
+Image: image_442_1.png
+Caption: Figure 11.39 to drive the position difference to zero for automatic docking.
+Size: 1185x391 pixels
+File size: 5.4 KB
+Location: extracted_images\image_442_1.png
+--------------------------------------------------
+
+Page 442:
+Image: image_442_2.png
+Caption: Figure 11.39 to drive the position difference to zero for automatic docking.
+Size: 843x228 pixels
+File size: 3.3 KB
+Location: extracted_images\image_442_2.png
+--------------------------------------------------
+
+Page 449:
+Image: image_449_1.png
+Caption: No caption found
+Size: 844x340 pixels
+File size: 2.4 KB
+Location: extracted_images\image_449_1.png
+--------------------------------------------------
+
+Page 451:
+Image: image_451_1.png
+Caption: Upsampling of a periodic square wave signal is shown in Figure
+Size: 1045x635 pixels
+File size: 5.3 KB
+Location: extracted_images\image_451_1.png
+--------------------------------------------------
+
+Page 454:
+Image: image_454_1.png
+Caption: �x n of period N = 7, shown in Figure 12.3.
+Size: 1131x327 pixels
+File size: 3.3 KB
+Location: extracted_images\image_454_1.png
+--------------------------------------------------
+
+Page 454:
+Image: image_454_2.png
+Caption: �x n of period N = 7, shown in Figure 12.3.
+Size: 1131x306 pixels
+File size: 2.9 KB
+Location: extracted_images\image_454_2.png
+--------------------------------------------------
+
+Page 456:
+Image: image_456_1.png
+Caption: shown in Figure 12.5 for
+Size: 816x378 pixels
+File size: 2.7 KB
+Location: extracted_images\image_456_1.png
+--------------------------------------------------
+
+Page 457:
+Image: image_457_1.png
+Caption: No caption found
+Size: 858x435 pixels
+File size: 4.1 KB
+Location: extracted_images\image_457_1.png
+--------------------------------------------------
+
+Page 457:
+Image: image_457_2.png
+Caption: No caption found
+Size: 640x333 pixels
+File size: 2.1 KB
+Location: extracted_images\image_457_2.png
+--------------------------------------------------
+
+Page 458:
+Image: image_458_1.png
+Caption: is shown in Figure 12.8.
+Size: 816x401 pixels
+File size: 4.7 KB
+Location: extracted_images\image_458_1.png
+--------------------------------------------------
+
+Page 460:
+Image: image_460_1.png
+Caption: upsampling operation. Figure 12.9 shows the Fourier transform of a rectangular
+Size: 1485x390 pixels
+File size: 9.6 KB
+Location: extracted_images\image_460_1.png
+--------------------------------------------------
+
+Page 464:
+Image: image_464_1.png
+Caption: shown in Figure 12.10. Notice that the amplitude of the main lobes grows with N,
+Size: 867x397 pixels
+File size: 5.5 KB
+Location: extracted_images\image_464_1.png
+--------------------------------------------------
+
+Page 465:
+Image: image_465_1.png
+Caption: Figure 12.11:
+Size: 1099x656 pixels
+File size: 9.5 KB
+Location: extracted_images\image_465_1.png
+--------------------------------------------------
+
+Page 468:
+Image: image_468_1.png
+Caption: No caption found
+Size: 990x760 pixels
+File size: 5.2 KB
+Location: extracted_images\image_468_1.png
+--------------------------------------------------
+
+Page 470:
+Image: image_470_1.png
+Caption: phase of the spectrum are shown in Figure 12.14.
+Size: 994x362 pixels
+File size: 3.6 KB
+Location: extracted_images\image_470_1.png
+--------------------------------------------------
+
+Page 471:
+Image: image_471_1.png
+Caption: of the signal x[n] shown in Figure
+Size: 920x615 pixels
+File size: 4.1 KB
+Location: extracted_images\image_471_1.png
+--------------------------------------------------
+
+Page 471:
+Image: image_471_2.png
+Caption: of the signal x[n] shown in Figure
+Size: 865x406 pixels
+File size: 2.6 KB
+Location: extracted_images\image_471_2.png
+--------------------------------------------------
+
+Page 472:
+Image: image_472_1.png
+Caption: and is plotted in Figure 12.17 for
+Size: 958x696 pixels
+File size: 5.6 KB
+Location: extracted_images\image_472_1.png
+--------------------------------------------------
+
+Page 472:
+Image: image_472_2.png
+Caption: and is plotted in Figure 12.17 for
+Size: 998x719 pixels
+File size: 6.0 KB
+Location: extracted_images\image_472_2.png
+--------------------------------------------------
+
+Page 475:
+Image: image_475_1.png
+Caption: of the signal x[n] shown in Figure 12.19
+Size: 694x313 pixels
+File size: 2.5 KB
+Location: extracted_images\image_475_1.png
+--------------------------------------------------
+
+Page 475:
+Image: image_475_2.png
+Caption: of the signal x[n] shown in Figure 12.19
+Size: 865x397 pixels
+File size: 2.7 KB
+Location: extracted_images\image_475_2.png
+--------------------------------------------------
+
+Page 475:
+Image: image_475_3.png
+Caption: of the signal x[n] shown in Figure 12.19
+Size: 994x325 pixels
+File size: 3.6 KB
+Location: extracted_images\image_475_3.png
+--------------------------------------------------
+
+Page 480:
+Image: image_480_1.png
+Caption: Figure 13.1 was done with the MATLAB script zTFmagsurface.m, which is lo-
+Size: 701x466 pixels
+File size: 53.3 KB
+Location: extracted_images\image_480_1.png
+--------------------------------------------------
+
+Page 482:
+Image: image_482_1.png
+Caption: The ROC of X(z) can be displayed on a pole-zero plot as shown in Figure 13.2.
+Size: 751x596 pixels
+File size: 26.1 KB
+Location: extracted_images\image_482_1.png
+--------------------------------------------------
+
+Page 490:
+Image: image_490_1.png
+Caption: No caption found
+Size: 749x596 pixels
+File size: 26.1 KB
+Location: extracted_images\image_490_1.png
+--------------------------------------------------
+
+Page 493:
+Image: image_493_1.png
+Caption: Suppose we have the DLTI system in Figure 13.4.
+Size: 554x173 pixels
+File size: 1.5 KB
+Location: extracted_images\image_493_1.png
+--------------------------------------------------
+
+Page 495:
+Image: image_495_1.png
+Caption: These ROCs are shown on the pole-zero plots in Figure 13.5.
+Size: 701x704 pixels
+File size: 33.8 KB
+Location: extracted_images\image_495_1.png
+--------------------------------------------------
+
+Page 496:
+Image: image_496_1.png
+Caption: A cascade interconnection of two DLTI systems, as shown in Figure 13.6, results
+Size: 845x186 pixels
+File size: 2.8 KB
+Location: extracted_images\image_496_1.png
+--------------------------------------------------
+
+Page 496:
+Image: image_496_2.png
+Caption: A cascade interconnection of two DLTI systems, as shown in Figure 13.6, results
+Size: 775x358 pixels
+File size: 3.7 KB
+Location: extracted_images\image_496_2.png
+--------------------------------------------------
+
+Page 497:
+Image: image_497_1.png
+Caption: in Figure 13.8. Feedback systems are causal, but their poles are usually different
+Size: 745x377 pixels
+File size: 3.8 KB
+Location: extracted_images\image_497_1.png
+--------------------------------------------------
+
+Page 499:
+Image: image_499_1.png
+Caption: and the unit delay. These elements are shown in Figure 13.9.
+Size: 1185x212 pixels
+File size: 3.4 KB
+Location: extracted_images\image_499_1.png
+--------------------------------------------------
+
+Page 500:
+Image: image_500_1.png
+Caption: shown in Figure 13.10.
+Size: 894x353 pixels
+File size: 3.2 KB
+Location: extracted_images\image_500_1.png
+--------------------------------------------------
+
+Page 501:
+Image: image_501_1.png
+Caption: tion 13.79 into two subsystems as shown in Figure 13.12.
+Size: 804x603 pixels
+File size: 4.8 KB
+Location: extracted_images\image_501_1.png
+--------------------------------------------------
+
+Page 501:
+Image: image_501_2.png
+Caption: tion 13.79 into two subsystems as shown in Figure 13.12.
+Size: 1499x133 pixels
+File size: 4.4 KB
+Location: extracted_images\image_501_2.png
+--------------------------------------------------
+
+Page 502:
+Image: image_502_1.png
+Caption: No caption found
+Size: 1040x590 pixels
+File size: 8.4 KB
+Location: extracted_images\image_502_1.png
+--------------------------------------------------
+
+Page 508:
+Image: image_508_1.png
+Caption: No caption found
+Size: 781x549 pixels
+File size: 22.7 KB
+Location: extracted_images\image_508_1.png
+--------------------------------------------------
+
+Page 510:
+Image: image_510_1.png
+Caption: The direct form realization of the system is given in Figure 13.16.
+Size: 752x476 pixels
+File size: 16.4 KB
+Location: extracted_images\image_510_1.png
+--------------------------------------------------
+
+Page 510:
+Image: image_510_2.png
+Caption: The direct form realization of the system is given in Figure 13.16.
+Size: 830x480 pixels
+File size: 6.2 KB
+Location: extracted_images\image_510_2.png
+--------------------------------------------------
+
+Page 518:
+Image: image_518_1.png
+Caption: plot shown in Figure 14.1, where a is real, 0 < a < 1.
+Size: 772x598 pixels
+File size: 5.9 KB
+Location: extracted_images\image_518_1.png
+--------------------------------------------------
+
+Page 519:
+Image: image_519_1.png
+Caption: Thus, for 0 < a < 1, the magnitude plot will look like the one shown in Figure 14.2.
+Size: 811x390 pixels
+File size: 3.6 KB
+Location: extracted_images\image_519_1.png
+--------------------------------------------------
+
+Page 519:
+Image: image_519_2.png
+Caption: Thus, for 0 < a < 1, the magnitude plot will look like the one shown in Figure 14.2.
+Size: 701x368 pixels
+File size: 3.0 KB
+Location: extracted_images\image_519_2.png
+--------------------------------------------------
+
+Page 520:
+Image: image_520_1.png
+Caption: , the vectors are shown on the pole-zero plot of Figure
+Size: 772x595 pixels
+File size: 6.3 KB
+Location: extracted_images\image_520_1.png
+--------------------------------------------------
+
+Page 520:
+Image: image_520_2.png
+Caption: , the vectors are shown on the pole-zero plot of Figure
+Size: 677x394 pixels
+File size: 3.3 KB
+Location: extracted_images\image_520_2.png
+--------------------------------------------------
+
+Page 521:
+Image: image_521_1.png
+Caption: expressed in Equation 14.7. It should look like the phase sketched in Figure 14.6.
+Size: 755x390 pixels
+File size: 3.4 KB
+Location: extracted_images\image_521_1.png
+--------------------------------------------------
+
+Page 522:
+Image: image_522_1.png
+Caption: (see Figure 14.8).
+Size: 894x696 pixels
+File size: 8.5 KB
+Location: extracted_images\image_522_1.png
+--------------------------------------------------
+
+Page 522:
+Image: image_522_2.png
+Caption: (see Figure 14.8).
+Size: 704x378 pixels
+File size: 3.7 KB
+Location: extracted_images\image_522_2.png
+--------------------------------------------------
+
+Page 523:
+Image: image_523_1.png
+Caption: The phase might look like the one sketched in Figure 14.9, although it varies
+Size: 808x375 pixels
+File size: 3.6 KB
+Location: extracted_images\image_523_1.png
+--------------------------------------------------
+
+Page 524:
+Image: image_524_1.png
+Caption: slower. Figure 14.10 shows the step responses of two first-order systems, one with
+Size: 936x477 pixels
+File size: 6.5 KB
+Location: extracted_images\image_524_1.png
+--------------------------------------------------
+
+Page 525:
+Image: image_525_1.png
+Caption: The magnitude in Equation 14.16 is plotted in Figure 14.11 for the cases a =
+Size: 1183x722 pixels
+File size: 8.3 KB
+Location: extracted_images\image_525_1.png
+--------------------------------------------------
+
+Page 525:
+Image: image_525_2.png
+Caption: The magnitude in Equation 14.16 is plotted in Figure 14.11 for the cases a =
+Size: 982x553 pixels
+File size: 6.6 KB
+Location: extracted_images\image_525_2.png
+--------------------------------------------------
+
+Page 527:
+Image: image_527_1.png
+Caption: Figure 14.13 shows the frequency response magnitude of the second-order
+Size: 1175x757 pixels
+File size: 8.7 KB
+Location: extracted_images\image_527_1.png
+--------------------------------------------------
+
+Page 528:
+Image: image_528_1.png
+Caption: This impulse response is shown in Figure 14.15, again for the cases r = 0.6 and
+Size: 1177x733 pixels
+File size: 9.3 KB
+Location: extracted_images\image_528_1.png
+--------------------------------------------------
+
+Page 528:
+Image: image_528_2.png
+Caption: This impulse response is shown in Figure 14.15, again for the cases r = 0.6 and
+Size: 858x493 pixels
+File size: 5.7 KB
+Location: extracted_images\image_528_2.png
+--------------------------------------------------
+
+Page 529:
+Image: image_529_1.png
+Caption: as illustrated in the filtering block diagram of Figure
+Size: 569x200 pixels
+File size: 2.2 KB
+Location: extracted_images\image_529_1.png
+--------------------------------------------------
+
+Page 530:
+Image: image_530_1.png
+Caption: No caption found
+Size: 1400x944 pixels
+File size: 12.9 KB
+Location: extracted_images\image_530_1.png
+--------------------------------------------------
+
+Page 530:
+Image: image_530_2.png
+Caption: No caption found
+Size: 721x315 pixels
+File size: 2.5 KB
+Location: extracted_images\image_530_2.png
+--------------------------------------------------
+
+Page 532:
+Image: image_532_1.png
+Caption: poles are plotted over the ideal brickwall magnitudes in Figure 14.19. We can see
+Size: 1160x719 pixels
+File size: 11.6 KB
+Location: extracted_images\image_532_1.png
+--------------------------------------------------
+
+Page 533:
+Image: image_533_1.png
+Caption: This highpass frequency response is shown in Figure 14.21.
+Size: 1309x840 pixels
+File size: 12.8 KB
+Location: extracted_images\image_533_1.png
+--------------------------------------------------
+
+Page 533:
+Image: image_533_2.png
+Caption: This highpass frequency response is shown in Figure 14.21.
+Size: 865x323 pixels
+File size: 2.8 KB
+Location: extracted_images\image_533_2.png
+--------------------------------------------------
+
+Page 535:
+Image: image_535_1.png
+Caption: shown in Figure 14.23. The complex poles’ magnitude and angles obtained were
+Size: 1250x783 pixels
+File size: 13.2 KB
+Location: extracted_images\image_535_1.png
+--------------------------------------------------
+
+Page 536:
+Image: image_536_1.png
+Caption: As shown in Figure 14.24, an ideal bandpass filter with a passband between �c1,
+Size: 1238x757 pixels
+File size: 12.5 KB
+Location: extracted_images\image_536_1.png
+--------------------------------------------------
+
+Page 536:
+Image: image_536_2.png
+Caption: As shown in Figure 14.24, an ideal bandpass filter with a passband between �c1,
+Size: 882x424 pixels
+File size: 3.6 KB
+Location: extracted_images\image_536_2.png
+--------------------------------------------------
+
+Page 538:
+Image: image_538_1.png
+Caption: The magnitude plot in Figure 14.25 shows that a (more or less) reasonable ap-
+Size: 1190x740 pixels
+File size: 12.1 KB
+Location: extracted_images\image_538_1.png
+--------------------------------------------------
+
+Page 541:
+Image: image_541_1.png
+Caption: This impulse response is shown in Figure 14.27 for M = 4.
+Size: 728x586 pixels
+File size: 5.2 KB
+Location: extracted_images\image_541_1.png
+--------------------------------------------------
+
+Page 541:
+Image: image_541_2.png
+Caption: This impulse response is shown in Figure 14.27 for M = 4.
+Size: 723x343 pixels
+File size: 2.3 KB
+Location: extracted_images\image_541_2.png
+--------------------------------------------------
+
+Page 543:
+Image: image_543_1.png
+Caption: Figure 14.29 (case M = 4.)
+Size: 1297x666 pixels
+File size: 11.6 KB
+Location: extracted_images\image_543_1.png
+--------------------------------------------------
+
+Page 543:
+Image: image_543_2.png
+Caption: Figure 14.29 (case M = 4.)
+Size: 818x637 pixels
+File size: 7.0 KB
+Location: extracted_images\image_543_2.png
+--------------------------------------------------
+
+Page 544:
+Image: image_544_1.png
+Caption: This impulse response is plotted in Figure 14.30 for the cutoff frequency �c = .
+Size: 1048x650 pixels
+File size: 7.0 KB
+Location: extracted_images\image_544_1.png
+--------------------------------------------------
+
+Page 545:
+Image: image_545_1.png
+Caption: Its magnitude is plotted in Figure 14.32 and is compared to the ideal lowpass
+Size: 997x493 pixels
+File size: 6.1 KB
+Location: extracted_images\image_545_1.png
+--------------------------------------------------
+
+Page 545:
+Image: image_545_2.png
+Caption: Its magnitude is plotted in Figure 14.32 and is compared to the ideal lowpass
+Size: 1148x747 pixels
+File size: 7.2 KB
+Location: extracted_images\image_545_2.png
+--------------------------------------------------
+
+Page 547:
+Image: image_547_1.png
+Caption: No caption found
+Size: 1481x914 pixels
+File size: 13.9 KB
+Location: extracted_images\image_547_1.png
+--------------------------------------------------
+
+Page 547:
+Image: image_547_2.png
+Caption: No caption found
+Size: 1004x544 pixels
+File size: 7.3 KB
+Location: extracted_images\image_547_2.png
+--------------------------------------------------
+
+Page 548:
+Image: image_548_1.png
+Caption: window with M even, shown in Figure 14.35, is defined as follows:
+Size: 894x444 pixels
+File size: 5.3 KB
+Location: extracted_images\image_548_1.png
+--------------------------------------------------
+
+Page 548:
+Image: image_548_2.png
+Caption: window with M even, shown in Figure 14.35, is defined as follows:
+Size: 979x536 pixels
+File size: 4.6 KB
+Location: extracted_images\image_548_2.png
+--------------------------------------------------
+
+Page 549:
+Image: image_549_1.png
+Caption: obtain the finite impulse response of Figure 14.37.
+Size: 904x477 pixels
+File size: 4.8 KB
+Location: extracted_images\image_549_1.png
+--------------------------------------------------
+
+Page 549:
+Image: image_549_2.png
+Caption: obtain the finite impulse response of Figure 14.37.
+Size: 1011x559 pixels
+File size: 6.4 KB
+Location: extracted_images\image_549_2.png
+--------------------------------------------------
+
+Page 552:
+Image: image_552_1.png
+Caption: No caption found
+Size: 1031x772 pixels
+File size: 15.6 KB
+Location: extracted_images\image_552_1.png
+--------------------------------------------------
+
+Page 553:
+Image: image_553_1.png
+Caption: the big bracket in the last line of the above equation, is plotted in Figure 14.40.
+Size: 1097x816 pixels
+File size: 10.6 KB
+Location: extracted_images\image_553_1.png
+--------------------------------------------------
+
+Page 555:
+Image: image_555_1.png
+Caption: ond-order IIR filters of Exercise 14.1 are shown in Figure 14.41.
+Size: 1029x792 pixels
+File size: 15.8 KB
+Location: extracted_images\image_555_1.png
+--------------------------------------------------
+
+Page 561:
+Image: image_561_1.png
+Caption: with a periodic impulse train of period Ts, as depicted in Figure 15.1. The spectrum
+Size: 1394x368 pixels
+File size: 6.2 KB
+Location: extracted_images\image_561_1.png
+--------------------------------------------------
+
+Page 561:
+Image: image_561_2.png
+Caption: with a periodic impulse train of period Ts, as depicted in Figure 15.1. The spectrum
+Size: 1463x530 pixels
+File size: 9.8 KB
+Location: extracted_images\image_561_2.png
+--------------------------------------------------
+
+Page 563:
+Image: image_563_1.png
+Caption: menting a sample-and-hold is shown in Figure 15.4. The switch, which is assumed
+Size: 591x239 pixels
+File size: 2.2 KB
+Location: extracted_images\image_563_1.png
+--------------------------------------------------
+
+Page 563:
+Image: image_563_2.png
+Caption: menting a sample-and-hold is shown in Figure 15.4. The switch, which is assumed
+Size: 911x303 pixels
+File size: 2.0 KB
+Location: extracted_images\image_563_2.png
+--------------------------------------------------
+
+Page 564:
+Image: image_564_1.png
+Caption: whose magnitude and phase are sketched in Figure 15.8.
+Size: 882x297 pixels
+File size: 4.4 KB
+Location: extracted_images\image_564_1.png
+--------------------------------------------------
+
+Page 564:
+Image: image_564_2.png
+Caption: whose magnitude and phase are sketched in Figure 15.8.
+Size: 1379x282 pixels
+File size: 4.6 KB
+Location: extracted_images\image_564_2.png
+--------------------------------------------------
+
+Page 565:
+Image: image_565_1.png
+Caption: No caption found
+Size: 1385x322 pixels
+File size: 7.8 KB
+Location: extracted_images\image_565_1.png
+--------------------------------------------------
+
+Page 565:
+Image: image_565_2.png
+Caption: No caption found
+Size: 1116x398 pixels
+File size: 5.4 KB
+Location: extracted_images\image_565_2.png
+--------------------------------------------------
+
+Page 566:
+Image: image_566_1.png
+Caption: The ZOH, now viewed as an interpolator in Figure 15.10, offers a coarse way to re-
+Size: 1187x488 pixels
+File size: 10.4 KB
+Location: extracted_images\image_566_1.png
+--------------------------------------------------
+
+Page 567:
+Image: image_567_1.png
+Caption: , as shown in Figure
+Size: 1452x325 pixels
+File size: 6.1 KB
+Location: extracted_images\image_567_1.png
+--------------------------------------------------
+
+Page 567:
+Image: image_567_2.png
+Caption: , as shown in Figure
+Size: 936x750 pixels
+File size: 9.2 KB
+Location: extracted_images\image_567_2.png
+--------------------------------------------------
+
+Page 568:
+Image: image_568_1.png
+Caption: ing at Figure 15.13, we see that the high frequencies in the replicas of the original
+Size: 1407x911 pixels
+File size: 13.8 KB
+Location: extracted_images\image_568_1.png
+--------------------------------------------------
+
+Page 569:
+Image: image_569_1.png
+Caption: , violating the sampling theorem. Figure 15.14 shows the resulting
+Size: 1445x579 pixels
+File size: 10.2 KB
+Location: extracted_images\image_569_1.png
+--------------------------------------------------
+
+Page 569:
+Image: image_569_2.png
+Caption: , violating the sampling theorem. Figure 15.14 shows the resulting
+Size: 732x286 pixels
+File size: 25.1 KB
+Location: extracted_images\image_569_2.png
+--------------------------------------------------
+
+Page 570:
+Image: image_570_1.png
+Caption: ample the spectrum of the sampled signal in Figure 15.16 with the aliased
+Size: 911x693 pixels
+File size: 11.4 KB
+Location: extracted_images\image_570_1.png
+--------------------------------------------------
+
+Page 571:
+Image: image_571_1.png
+Caption: discrete time. Consider the block diagram of a sampled-data system in Figure
+Size: 1465x606 pixels
+File size: 12.0 KB
+Location: extracted_images\image_571_1.png
+--------------------------------------------------
+
+Page 571:
+Image: image_571_2.png
+Caption: discrete time. Consider the block diagram of a sampled-data system in Figure
+Size: 1500x315 pixels
+File size: 5.8 KB
+Location: extracted_images\image_571_2.png
+--------------------------------------------------
+
+Page 572:
+Image: image_572_1.png
+Caption: As indicated in Figure 15.17, the continuous-time to discrete-time operator CT/DT
+Size: 845x351 pixels
+File size: 4.2 KB
+Location: extracted_images\image_572_1.png
+--------------------------------------------------
+
+Page 572:
+Image: image_572_2.png
+Caption: As indicated in Figure 15.17, the continuous-time to discrete-time operator CT/DT
+Size: 1451x282 pixels
+File size: 5.5 KB
+Location: extracted_images\image_572_2.png
+--------------------------------------------------
+
+Page 573:
+Image: image_573_1.png
+Caption: [–�, �]. Figure 15.20 shows an example of a continuous-time signal with a trian-
+Size: 1323x235 pixels
+File size: 4.7 KB
+Location: extracted_images\image_573_1.png
+--------------------------------------------------
+
+Page 574:
+Image: image_574_1.png
+Caption: The discrete-time to continuous-time DT/CT conversion operator in Figure 15.17
+Size: 984x303 pixels
+File size: 3.8 KB
+Location: extracted_images\image_574_1.png
+--------------------------------------------------
+
+Page 575:
+Image: image_575_1.png
+Caption: Can the system depicted in Figure 15.22 be equivalent to a purely continuous-time
+Size: 1500x295 pixels
+File size: 5.4 KB
+Location: extracted_images\image_575_1.png
+--------------------------------------------------
+
+Page 577:
+Image: image_577_1.png
+Caption: A signal x[n] with DTFT shown at the top of Figure 15.23 is
+Size: 1503x985 pixels
+File size: 11.1 KB
+Location: extracted_images\image_577_1.png
+--------------------------------------------------
+
+Page 579:
+Image: image_579_1.png
+Caption: No caption found
+Size: 1503x901 pixels
+File size: 10.6 KB
+Location: extracted_images\image_579_1.png
+--------------------------------------------------
+
+Page 580:
+Image: image_580_1.png
+Caption: in Figure 15.25, followed by
+Size: 950x244 pixels
+File size: 3.4 KB
+Location: extracted_images\image_580_1.png
+--------------------------------------------------
+
+Page 581:
+Image: image_581_1.png
+Caption: No caption found
+Size: 723x956 pixels
+File size: 8.8 KB
+Location: extracted_images\image_581_1.png
+--------------------------------------------------
+
+Page 581:
+Image: image_581_2.png
+Caption: No caption found
+Size: 1381x897 pixels
+File size: 9.2 KB
+Location: extracted_images\image_581_2.png
+--------------------------------------------------
+
+Page 582:
+Image: image_582_1.png
+Caption: are shown in Figure 15.28.
+Size: 1387x1018 pixels
+File size: 9.7 KB
+Location: extracted_images\image_582_1.png
+--------------------------------------------------
+
+Page 583:
+Image: image_583_1.png
+Caption: The system shown in Figure 15.29 filters the continuous-time noisy signal
+Size: 1456x314 pixels
+File size: 6.5 KB
+Location: extracted_images\image_583_1.png
+--------------------------------------------------
+
+Page 584:
+Image: image_584_1.png
+Caption: Figure 15.30. The frequency response of the antialiasing lowpass filter is also
+Size: 1007x466 pixels
+File size: 4.9 KB
+Location: extracted_images\image_584_1.png
+--------------------------------------------------
+
+Page 584:
+Image: image_584_2.png
+Caption: Figure 15.30. The frequency response of the antialiasing lowpass filter is also
+Size: 1314x760 pixels
+File size: 8.2 KB
+Location: extracted_images\image_584_2.png
+--------------------------------------------------
+
+Page 585:
+Image: image_585_1.png
+Caption: From Figure 15.31, the ideal lowpass would have a cutoff frequency
+Size: 1468x397 pixels
+File size: 3.5 KB
+Location: extracted_images\image_585_1.png
+--------------------------------------------------
+
+Page 585:
+Image: image_585_2.png
+Caption: From Figure 15.31, the ideal lowpass would have a cutoff frequency
+Size: 1472x443 pixels
+File size: 5.8 KB
+Location: extracted_images\image_585_2.png
+--------------------------------------------------
+
+Page 586:
+Image: image_586_1.png
+Caption: sketched in Figure 15.34.
+Size: 1207x618 pixels
+File size: 6.2 KB
+Location: extracted_images\image_586_1.png
+--------------------------------------------------
+
+Page 587:
+Image: image_587_1.png
+Caption: Consider the discrete-time system shown in Figure 15.35, where
+Size: 1468x169 pixels
+File size: 4.4 KB
+Location: extracted_images\image_587_1.png
+--------------------------------------------------
+
+Page 588:
+Image: image_588_1.png
+Caption: No caption found
+Size: 1503x948 pixels
+File size: 6.7 KB
+Location: extracted_images\image_588_1.png
+--------------------------------------------------
+
+Page 589:
+Image: image_589_1.png
+Caption: Consider the sampling system in Figure 15.37 with an ideal unit-gain, lowpass
+Size: 1023x287 pixels
+File size: 3.8 KB
+Location: extracted_images\image_589_1.png
+--------------------------------------------------
+
+Page 590:
+Image: image_590_1.png
+Caption: Consider the sampling system in Figure 15.38, where the sampling frequency is
+Size: 1456x378 pixels
+File size: 8.6 KB
+Location: extracted_images\image_590_1.png
+--------------------------------------------------
+
+Page 590:
+Image: image_590_2.png
+Caption: Consider the sampling system in Figure 15.38, where the sampling frequency is
+Size: 1411x394 pixels
+File size: 5.3 KB
+Location: extracted_images\image_590_2.png
+--------------------------------------------------
+
+Page 591:
+Image: image_591_1.png
+Caption: Consider the sampling system in Figure 15.40, where the input signal is
+Size: 1297x301 pixels
+File size: 6.3 KB
+Location: extracted_images\image_591_1.png
+--------------------------------------------------
+
+Page 591:
+Image: image_591_2.png
+Caption: Consider the sampling system in Figure 15.40, where the input signal is
+Size: 1407x409 pixels
+File size: 5.7 KB
+Location: extracted_images\image_591_2.png
+--------------------------------------------------
+
+Page 592:
+Image: image_592_1.png
+Caption: The system depicted in Figure 15.42 is used to implement a continuous-time band-
+Size: 1422x415 pixels
+File size: 7.0 KB
+Location: extracted_images\image_592_1.png
+--------------------------------------------------
+
+Page 592:
+Image: image_592_2.png
+Caption: The system depicted in Figure 15.42 is used to implement a continuous-time band-
+Size: 784x310 pixels
+File size: 2.9 KB
+Location: extracted_images\image_592_2.png
+--------------------------------------------------
+
+Page 593:
+Image: image_593_1.png
+Caption: Figure 15.44 with a sample rate of 1 MHz. The specification is that the signal
+Size: 1190x285 pixels
+File size: 2.9 KB
+Location: extracted_images\image_593_1.png
+--------------------------------------------------
+
+Page 593:
+Image: image_593_2.png
+Caption: Figure 15.44 with a sample rate of 1 MHz. The specification is that the signal
+Size: 1501x378 pixels
+File size: 10.5 KB
+Location: extracted_images\image_593_2.png
+--------------------------------------------------
+
+Page 598:
+Image: image_598_1.png
+Caption: nal x(t) frequency-shifted to the carrier frequency, as shown in Figure 16.1.
+Size: 1039x567 pixels
+File size: 5.8 KB
+Location: extracted_images\image_598_1.png
+--------------------------------------------------
+
+Page 599:
+Image: image_599_1.png
+Caption: Sinusoidal AM can be represented by the diagram in Figure 16.2, where the
+Size: 885x195 pixels
+File size: 2.7 KB
+Location: extracted_images\image_599_1.png
+--------------------------------------------------
+
+Page 599:
+Image: image_599_2.png
+Caption: Sinusoidal AM can be represented by the diagram in Figure 16.2, where the
+Size: 1179x649 pixels
+File size: 8.1 KB
+Location: extracted_images\image_599_2.png
+--------------------------------------------------
+
+Page 601:
+Image: image_601_1.png
+Caption: No caption found
+Size: 1215x919 pixels
+File size: 10.0 KB
+Location: extracted_images\image_601_1.png
+--------------------------------------------------
+
+Page 603:
+Image: image_603_1.png
+Caption: nal y(t), as the example in Figure 16.5 shows with A = 1 and m = 0.3.
+Size: 613x288 pixels
+File size: 2.3 KB
+Location: extracted_images\image_603_1.png
+--------------------------------------------------
+
+Page 603:
+Image: image_603_2.png
+Caption: nal y(t), as the example in Figure 16.5 shows with A = 1 and m = 0.3.
+Size: 487x434 pixels
+File size: 31.5 KB
+Location: extracted_images\image_603_2.png
+--------------------------------------------------
+
+Page 604:
+Image: image_604_1.png
+Caption: out the jagged graph of signal w(t) in Figure 16.7.
+Size: 1000x701 pixels
+File size: 11.9 KB
+Location: extracted_images\image_604_1.png
+--------------------------------------------------
+
+Page 606:
+Image: image_606_1.png
+Caption: No caption found
+Size: 1077x989 pixels
+File size: 13.6 KB
+Location: extracted_images\image_606_1.png
+--------------------------------------------------
+
+Page 607:
+Image: image_607_1.png
+Caption: in Figure 16.9.
+Size: 936x217 pixels
+File size: 3.0 KB
+Location: extracted_images\image_607_1.png
+--------------------------------------------------
+
+Page 607:
+Image: image_607_2.png
+Caption: in Figure 16.9.
+Size: 938x197 pixels
+File size: 3.0 KB
+Location: extracted_images\image_607_2.png
+--------------------------------------------------
+
+Page 607:
+Image: image_607_3.png
+Caption: in Figure 16.9.
+Size: 942x409 pixels
+File size: 4.8 KB
+Location: extracted_images\image_607_3.png
+--------------------------------------------------
+
+Page 609:
+Image: image_609_1.png
+Caption: demodulator and the signal spectra are shown in Figure 16.12.
+Size: 960x840 pixels
+File size: 8.9 KB
+Location: extracted_images\image_609_1.png
+--------------------------------------------------
+
+Page 610:
+Image: image_610_1.png
+Caption: system shown in Figure 16.13 and characterized by the equation
+Size: 1115x246 pixels
+File size: 3.9 KB
+Location: extracted_images\image_610_1.png
+--------------------------------------------------
+
+Page 611:
+Image: image_611_1.png
+Caption: comes from the zero-order-hold (ZOH)–like operation as shown in Figure 16.15.
+Size: 1321x548 pixels
+File size: 8.7 KB
+Location: extracted_images\image_611_1.png
+--------------------------------------------------
+
+Page 612:
+Image: image_612_1.png
+Caption: No caption found
+Size: 1493x569 pixels
+File size: 8.7 KB
+Location: extracted_images\image_612_1.png
+--------------------------------------------------
+
+Page 612:
+Image: image_612_2.png
+Caption: No caption found
+Size: 1495x602 pixels
+File size: 12.2 KB
+Location: extracted_images\image_612_2.png
+--------------------------------------------------
+
+Page 613:
+Image: image_613_1.png
+Caption: . The pulses at the output of the channel are plotted in Figure
+Size: 838x594 pixels
+File size: 7.3 KB
+Location: extracted_images\image_613_1.png
+--------------------------------------------------
+
+Page 614:
+Image: image_614_1.png
+Caption: equal to x(t) (refer back to Figure 15.9). One might as well transmit the signal x(t)
+Size: 644x246 pixels
+File size: 17.4 KB
+Location: extracted_images\image_614_1.png
+--------------------------------------------------
+
+Page 615:
+Image: image_615_1.png
+Caption: The ideal demodulator for TDM in Figure 16.19 is composed of impulse train
+Size: 750x283 pixels
+File size: 20.4 KB
+Location: extracted_images\image_615_1.png
+--------------------------------------------------
+
+Page 617:
+Image: image_617_1.png
+Caption: In a simple AM radio receiver such as the one in Figure 16.22, there is only one
+Size: 1491x566 pixels
+File size: 10.9 KB
+Location: extracted_images\image_617_1.png
+--------------------------------------------------
+
+Page 617:
+Image: image_617_2.png
+Caption: In a simple AM radio receiver such as the one in Figure 16.22, there is only one
+Size: 1337x695 pixels
+File size: 11.5 KB
+Location: extracted_images\image_617_2.png
+--------------------------------------------------
+
+Page 618:
+Image: image_618_1.png
+Caption: ceive station 1, the spectra would be as shown in Figure 16.23.
+Size: 1365x555 pixels
+File size: 9.8 KB
+Location: extracted_images\image_618_1.png
+--------------------------------------------------
+
+Page 618:
+Image: image_618_2.png
+Caption: ceive station 1, the spectra would be as shown in Figure 16.23.
+Size: 1492x728 pixels
+File size: 9.7 KB
+Location: extracted_images\image_618_2.png
+--------------------------------------------------
+
+Page 620:
+Image: image_620_1.png
+Caption: shown in Figure 16.24.
+Size: 940x140 pixels
+File size: 2.7 KB
+Location: extracted_images\image_620_1.png
+--------------------------------------------------
+
+Page 620:
+Image: image_620_2.png
+Caption: shown in Figure 16.24.
+Size: 1158x352 pixels
+File size: 5.8 KB
+Location: extracted_images\image_620_2.png
+--------------------------------------------------
+
+Page 621:
+Image: image_621_1.png
+Caption: A block diagram of the phase comparator is shown in Figure 16.26.
+Size: 833x254 pixels
+File size: 2.7 KB
+Location: extracted_images\image_621_1.png
+--------------------------------------------------
+
+Page 622:
+Image: image_622_1.png
+Caption: trol system with the block diagram in Figure 16.27, where the controller block is
+Size: 1114x300 pixels
+File size: 4.4 KB
+Location: extracted_images\image_622_1.png
+--------------------------------------------------
+
+Page 625:
+Image: image_625_1.png
+Caption: No caption found
+Size: 738x364 pixels
+File size: 3.8 KB
+Location: extracted_images\image_625_1.png
+--------------------------------------------------
+
+Page 626:
+Image: image_626_1.png
+Caption: This spectrum is sketched in Figure 16.29.
+Size: 1499x267 pixels
+File size: 3.4 KB
+Location: extracted_images\image_626_1.png
+--------------------------------------------------
+
+Page 626:
+Image: image_626_2.png
+Caption: This spectrum is sketched in Figure 16.29.
+Size: 591x286 pixels
+File size: 2.6 KB
+Location: extracted_images\image_626_2.png
+--------------------------------------------------
+
+Page 628:
+Image: image_628_1.png
+Caption: The modulating signal x(t) has a triangular spectrum X( j�) as shown in Figure
+Size: 1477x306 pixels
+File size: 8.1 KB
+Location: extracted_images\image_628_1.png
+--------------------------------------------------
+
+Page 628:
+Image: image_628_2.png
+Caption: The modulating signal x(t) has a triangular spectrum X( j�) as shown in Figure
+Size: 1143x527 pixels
+File size: 5.0 KB
+Location: extracted_images\image_628_2.png
+--------------------------------------------------
+
+Page 629:
+Image: image_629_1.png
+Caption: are shown in Figure 16.34.
+Size: 1335x534 pixels
+File size: 5.4 KB
+Location: extracted_images\image_629_1.png
+--------------------------------------------------
+
+Page 629:
+Image: image_629_2.png
+Caption: are shown in Figure 16.34.
+Size: 1455x515 pixels
+File size: 5.4 KB
+Location: extracted_images\image_629_2.png
+--------------------------------------------------
+
+Page 630:
+Image: image_630_1.png
+Caption: plementation of the continuous-time modulator shown in Figure 16.35.
+Size: 1114x879 pixels
+File size: 10.4 KB
+Location: extracted_images\image_630_1.png
+--------------------------------------------------
+
+Page 630:
+Image: image_630_2.png
+Caption: plementation of the continuous-time modulator shown in Figure 16.35.
+Size: 823x265 pixels
+File size: 2.2 KB
+Location: extracted_images\image_630_2.png
+--------------------------------------------------
+
+Page 632:
+Image: image_632_1.png
+Caption: In the operation of the superheterodyne receiver in Figure 16.22, it should be clear
+Size: 1087x382 pixels
+File size: 5.7 KB
+Location: extracted_images\image_632_1.png
+--------------------------------------------------
+
+Page 633:
+Image: image_633_1.png
+Caption: No caption found
+Size: 1497x339 pixels
+File size: 8.6 KB
+Location: extracted_images\image_633_1.png
+--------------------------------------------------
+
+Page 633:
+Image: image_633_2.png
+Caption: No caption found
+Size: 1214x535 pixels
+File size: 4.9 KB
+Location: extracted_images\image_633_2.png
+--------------------------------------------------
+
+Page 634:
+Image: image_634_1.png
+Caption: The system shown in Figure 16.40 is a lower single-sideband, suppressed-carrier
+Size: 1497x347 pixels
+File size: 9.0 KB
+Location: extracted_images\image_634_1.png
+--------------------------------------------------
+
+Page 635:
+Image: image_635_1.png
+Caption: Figure 16.42 is slightly off:
+Size: 1438x670 pixels
+File size: 5.8 KB
+Location: extracted_images\image_635_1.png
+--------------------------------------------------
+
+Page 635:
+Image: image_635_2.png
+Caption: Figure 16.42 is slightly off:
+Size: 575x234 pixels
+File size: 1.9 KB
+Location: extracted_images\image_635_2.png
+--------------------------------------------------
+
+Page 638:
+Image: image_638_1.png
+Caption: cascade of two subsystems as shown in Figure 17.1.
+Size: 1501x165 pixels
+File size: 4.6 KB
+Location: extracted_images\image_638_1.png
+--------------------------------------------------
+
+Page 638:
+Image: image_638_2.png
+Caption: cascade of two subsystems as shown in Figure 17.1.
+Size: 1452x693 pixels
+File size: 13.8 KB
+Location: extracted_images\image_638_2.png
+--------------------------------------------------
+
+Page 640:
+Image: image_640_1.png
+Caption: The block diagram of Figure 17.3 for the observable canonical form consists of
+Size: 1317x644 pixels
+File size: 10.7 KB
+Location: extracted_images\image_640_1.png
+--------------------------------------------------
+
+Page 647:
+Image: image_647_1.png
+Caption: tor, is given in Figure 17.4.
+Size: 1123x262 pixels
+File size: 4.7 KB
+Location: extracted_images\image_647_1.png
+--------------------------------------------------
+
+Page 648:
+Image: image_648_1.png
+Caption: The CT/DT operator defined in Chapter 15 is shown in Figure 17.6.
+Size: 1502x418 pixels
+File size: 6.6 KB
+Location: extracted_images\image_648_1.png
+--------------------------------------------------
+
+Page 648:
+Image: image_648_2.png
+Caption: The CT/DT operator defined in Chapter 15 is shown in Figure 17.6.
+Size: 850x340 pixels
+File size: 4.2 KB
+Location: extracted_images\image_648_2.png
+--------------------------------------------------
+
+Page 651:
+Image: image_651_1.png
+Caption: Figure 17.8. Consider the plot of a signal v(t) to be integrated between
+Size: 1167x1091 pixels
+File size: 13.6 KB
+Location: extracted_images\image_651_1.png
+--------------------------------------------------
+
+Page 652:
+Image: image_652_1.png
+Caption: No caption found
+Size: 647x175 pixels
+File size: 1.8 KB
+Location: extracted_images\image_652_1.png
+--------------------------------------------------
+
+Page 652:
+Image: image_652_2.png
+Caption: No caption found
+Size: 803x395 pixels
+File size: 4.2 KB
+Location: extracted_images\image_652_2.png
+--------------------------------------------------
+
+Page 657:
+Image: image_657_1.png
+Caption: No caption found
+Size: 60x38 pixels
+File size: 1.4 KB
+Location: extracted_images\image_657_1.png
+--------------------------------------------------
+
+Page 658:
+Image: image_658_1.png
+Caption: The resulting Bode plots are shown in Figure 17.10.
+Size: 572x540 pixels
+File size: 28.4 KB
+Location: extracted_images\image_658_1.png
+--------------------------------------------------
+
+Page 659:
+Image: image_659_1.png
+Caption: The resulting plot is shown in Figure 17.11.
+Size: 1250x762 pixels
+File size: 7.7 KB
+Location: extracted_images\image_659_1.png
+--------------------------------------------------
+
+Page 660:
+Image: image_660_1.png
+Caption: Answer: The direct form realization is shown in Figure 17.12.
+Size: 1208x585 pixels
+File size: 9.7 KB
+Location: extracted_images\image_660_1.png
+--------------------------------------------------
+
+Page 661:
+Image: image_661_1.png
+Caption: No caption found
+Size: 60x38 pixels
+File size: 1.4 KB
+Location: extracted_images\image_661_1.png
+--------------------------------------------------
+
+Page 662:
+Image: image_662_1.png
+Caption: No caption found
+Size: 60x38 pixels
+File size: 1.4 KB
+Location: extracted_images\image_662_1.png
+--------------------------------------------------
+
+Page 663:
+Image: image_663_1.png
+Caption: No caption found
+Size: 60x38 pixels
+File size: 1.4 KB
+Location: extracted_images\image_663_1.png
+--------------------------------------------------
+
